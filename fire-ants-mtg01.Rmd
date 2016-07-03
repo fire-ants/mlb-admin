@@ -31,8 +31,8 @@ Like all special force units and task forces, you have been carefully selected f
 - Image Repo
 - App Dev
 - PaaS Architecture
-- Scheduling 
-- Monitoring
+-  Scheduling 
+-  Monitoring
 - Database
 - Battle Buddies - 2 man teams deployed to tackle complex tasks.  
 
