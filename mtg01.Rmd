@@ -1,0 +1,45 @@
+---
+title: "Fire-Ants-Mtg01"
+author: "Jason Battles"
+date: "July 3, 2016"
+output: ioslides_presentation
+---
+
+## People
+start with “who?” before we focus on “what?”.
+
+## Mission
+- Build a Cloud Native Application (Unstructured & Structured PaaS)
+- Disrupt ourselves to learn new things
+- Develop a new level of relevance
+
+## Organization
+
+- Benevolent Military Dictatorship.  
+- Consensus - Team consensus will guide our actions.  If consensus not achieved, then I decide….with love and benevolence in my heart.
+
+## Roles & Skills
+
+Like all special force units and task forces, you have been carefully selected for your skillsets (current and targeted for development).  
+
+- Battle Buddies - 2 man teams will be used to tackle complex tasks.  I have some ideas on how we should group based on
+>- Cloud Architects 
+>-  Developers
+>- PaaS
+
+
+## Decide on First Project
+I will have 2 candidate projects for us to decide upon (MLB analysis, EMC Tech Refresh).  If you have a better idea for an app, be prepared to present it.  Again, consensus rules if you can state your case clearly and effectively.
+
+## Next Steps
+1. Code Repository
+2. ChatOps
+3. Task Tracking
+4. Scrum / Sprint Schedule
+5. Others?
+
+## R Markdown
+
+This is an R Markdown presentation. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
+
+When you click the **Knit** button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document.
