@@ -1,5 +1,5 @@
 ---
-title: "Fire-Ants-Mtg01"
+title: "Fire-Ants-Mtg01 [DRAFT]"
 author: "Jason Battles"
 date: "July 3, 2016"
 output: ioslides_presentation
@@ -23,26 +23,33 @@ Start with “who?” before we focus on “what?”.
 - Benevolent Military Dictatorship.  
 - Consensus - Team consensus will guide our actions.  If consensus not achieved, then I decide….with love and benevolence in my heart.
 
-## Roles & Skills
-
+## Roles & Skill Categories
 Like all special force units and task forces, you have been carefully selected for your skillsets (current and targeted for development).  
 
-- Battle Buddies - 2 man teams will be used to tackle complex tasks.  I have some ideas on how we should group based on
-- Cloud Architects 
--  Developers
-- PaaS
-
+- Micro-Service Architecture
+- Code Repo
+- Image Repo
+- App Dev
+- PaaS Architecture
+- Scheduling 
+- Monitoring
+- Database
+- Battle Buddies - 2 man teams deployed to tackle complex tasks.  
 
 ## Decide on First Project
 1. MLB Hitter Analysis
 2. EMC Technolgoy Refresh
 3. Other Ideas?
 
+## Potential Architecture
+![picture of architecture](images/architecture01.jpg)
+
 ## Next Steps
-1. Code Repository
-2. ChatOps
-3. Task Tracking
-4. Scrum / Sprint Schedule
+1. Code Repository - ??
+2. ChatOps - ??
+3. Task Tracking - ??
+4. Scrum / Sprint Schedule - ??
+5. Schedule Meetings - Bat
 5. Others?
 
 ## R Markdown
