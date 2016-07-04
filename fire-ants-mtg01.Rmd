@@ -27,7 +27,7 @@ Start with “who?” before we focus on “what?”.
 Like all special force units and task forces, you have been carefully selected for your skillsets (current and targeted for development).  
 
 - Micro-Service Architecture
-- Code Repo
+- Code Repo - http://www.github.com
 - Image Repo
 - App Dev
 - PaaS Architecture
@@ -42,7 +42,7 @@ Like all special force units and task forces, you have been carefully selected f
 3. Other Ideas?
 
 ## Potential Architecture
-![picture of architecture](images/architecture01.jpg)
+![potential architecture](images/architecture01.jpg)
 
 ## Next Steps
 1. Code Repository - ??
