@@ -1,56 +1,87 @@
 ---
-title: "Fire-Ants-Mtg01 [DRAFT]"
+title: "Fire-Ants-Mtg01"
 author: "Jason Battles"
-date: "July 3, 2016"
-output: ioslides_presentation
+date: "July 5, 2016"
+output: 
+  ioslides_presentation:
+  theme: united
 ---
 
 ## People
 Start with “who?” before we focus on “what?”.
 
-- Dan Cohen
-- Brian Moran
-- Aaron Sweers
-- Jason Battles
+- **Dan Cohen**
+- **Brian Moran**
+- **Aaron Sweers**
+- **Jason Battles**
 
 ## Mission
-- Build a Cloud Native Application (Unstructured & Structured PaaS)
-- Disrupt ourselves to learn new things
-- Develop a new level of relevance
+The Mountain Plains Application Development Team (a.k.a ***Fire Ants***) will develop and deploy Cloud Native Applications using modern frameworks to enhance clarity for our customers, our team, and ourselves.
+
+1. Build a Cloud Native Application (Unstructured /Composable and Structured PaaS)
+2. Disrupt ourselves to learn new things
+3. Develop a new level of relevance
 
 ## Organization
 
-- Benevolent Military Dictatorship.  
-- Consensus - Team consensus will guide our actions.  If consensus not achieved, then I decide….with love and benevolence in my heart.
+- **Consensus** - Team consensus will guide our actions.  
+- **Benevolent Military Dictatorship** - If consensus not achieved, then I decide….with love and benevolence in my heart.
+
+## Going Forward
+
+- **Be Here** - We need all the oars in the water.
+- **Be Authentic** - Share what you know, think you know, and do not know.
+- **Be Loving your Neighbor** - Come alongside and add to the collective knowledge.
+- **Be Heard** - This is a safe place.  Ask if you are not clear on something
+- **Be Decisive** - 24 hour timeframe.  
+
 
 ## Roles & Skill Categories
-Like all special force units and task forces, you have been carefully selected for your skillsets (current and targeted for development).  
+
+Like all high-speed task forces, you have been carefully selected for your skillsets (current and targeted for development).  
 
 - Micro-Service Architecture
-- Code Repo - http://www.github.com
+- Code Repo - <http://www.github.com>
 - Image Repo
 - App Dev
 - PaaS Architecture
--  Scheduling 
--  Monitoring
+- Scheduling 
+- Monitoring
 - Database
 - Battle Buddies - 2 man teams deployed to tackle complex tasks.  
 
 ## Decide on First Project
-1. MLB Hitter Analysis
-2. EMC Technolgoy Refresh
-3. Other Ideas?
+
+1. **MLB Hitter Analysis** - good data, unclear objectives
+2. **EMC Technology Refresh** - medium quality data, clear objectives, concerns about security
+3. **District Calendars** - Publish consolidated Internet calendars. Possible conflict with existing toolsets.
+4. **Other Ideas?**
+
+## Discussion
+![as per Brian Gracely](images/Structured-Composable-Unstructured3.jpg)
 
 ## Potential Architecture
 ![potential architecture](images/architecture01.jpg)
 
+## Recommended Links
+* Composable PaaS - 
+<http://wikibon.com/architectural-considerations-for-open-source-paas-and-container-platforms/>
+* Fire Ants Meetings
+<https://github.com/jrbattles/fire-ants-mtgs>
+* DrillingInfo - Coversion to Docker
+<http://synerzip.com/wp-content/uploads/2015/10/Microservices-on-Docker-Webinar-Synerzip.pptx>
+
 ## Next Steps
-1. Code Repository - ??
+1. Code Repository - GitHub
+    * Fork this repo - <https://github.com/jrbattles/fire-ants-mtgs>
+    * Commit some changes
+    * Submit pull request
 2. ChatOps - ??
 3. Task Tracking - ??
 4. Scrum / Sprint Schedule - ??
 5. Schedule Meetings - Bat
 5. Others?
+
 
 ## R Markdown
 
