@@ -88,3 +88,13 @@ Like all high-speed task forces, you have been carefully selected for your skill
 This is an R Markdown presentation. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
 
 When you click the **Knit** button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document.
+
+
+## Scooter's Slide
+
+- Installed R + R Studio + R Markdown
+
+- Starting to learn Docker and highly recommend these courses on PluralSight - <https://app.pluralsight.com/paths/skills/docker>.
+
+- This is my very first Git commit
+
