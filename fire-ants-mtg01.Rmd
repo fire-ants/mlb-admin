@@ -10,10 +10,10 @@ output:
 ## People
 Start with “who?” before we focus on “what?”.
 
-- **Dan Cohen**
-- **Brian Moran**
-- **Aaron Sweers**
-- **Jason Battles**
+- **[Dan Cohen](https://github.com/dancohen21)**
+- **[Brian Moran](https://github.com/brianmoranOK)**
+- **[Aaron Sweers](https://github.com/asweers)**
+- **[Jason Battles](https://github.com/jrbattles/)**
 
 ## Mission
 The Mountain Plains Application Development Team (a.k.a ***Fire Ants***) will develop and deploy Cloud Native Applications using modern frameworks to enhance clarity for our customers, our team, and ourselves.
