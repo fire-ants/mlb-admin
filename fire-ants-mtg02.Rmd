@@ -3,8 +3,8 @@ title: "Fire-Ants-Mtg02"
 author: "Jason Battles"
 date: "July 15, 2016"
 output: 
-  ioslides_presentation:
-  theme: united
+  ioslides_presentation: 
+    highlight: espresso
 ---
 
 ## Wave1 Objectives (Battles)
@@ -17,8 +17,33 @@ output:
 
 here is a [sample inning XML file](sample-data/gid_2015_09_05_texmlb_anamlb_1/inning/inning_all.xml)
 
-## Neo4j Overview (Sweers)
+## HitterValue - Quantitative (I)
+Pitch               Value
+--------            --------
+Hit Sharply-on base 1.5
+Hit Sharply-out     1.5
+FlyBall-on base hit 1
+FlyBall-out         0.8
+Grounder-on base hit0.5
+Grounder-out        0
+Swinging Strike     -0.3
+Called Strike       -0.3
 
+## HitterValue - Quantitative (II)
+Pitch           Value 
+-----           -----
+Foul            -0.3
+Ball            0
+Ball In Dirt    0
+In play, run(s) 0
+In play, no out 0   
+Pitchout        0
+Hit By Pitch    0
+
+## HitterValue - Qualitative (I)
+![](images/HitterVal-QualitativeScoring.jpg)
+                                
+## Neo4j Overview (Sweers)
 
 ## Task Tracking (Cohen)
 
@@ -28,3 +53,13 @@ here is a [sample inning XML file](sample-data/gid_2015_09_05_texmlb_anamlb_1/in
 
 ## Summary Notes
 
+## HitterValue - Qualitative (I)
+![Qualitative Scoring](images/HitterVal-QualitativeScoring.jpg)
+
+SuperNeg(-2)    Neg(-1)         Pos (+1)    SuperPos(+2)
+--------        ---             -----       ------- 
+softly          grounds out     sharply     homers
+pops            flies           line
+soft                            sharp
+                                lines
+                                
