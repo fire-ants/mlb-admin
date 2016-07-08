@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "---\ntitle: \"Fire-Ants-Mtg01\"\nauthor: \"Jason Battles\"\ndate: \"July 5, 2016\"\noutput: \n  ioslides_presentation:\n  theme: united\n---\n\n## People\nStart with “who?” before we focus on “what?”.\n\n- **Dan Cohen**\n- **Brian Moran**\n- **Aaron Sweers**\n- **Jason Battles**\n\n## Mission\nThe Mountain Plains Application Development Team (a.k.a ***Fire Ants***) will develop and deploy Cloud Native Applications using modern frameworks to enhance clarity for our customers, our team, and ourselves.\n\n1. Build a Cloud Native Application (Unstructured /Composable and Structured PaaS)\n2. Disrupt ourselves to learn new things\n3. Develop a new level of relevance\n\n## Organization\n\n- **Consensus** - Team consensus will guide our actions.  \n- **Benevolent Military Dictatorship** - If consensus not achieved, then I decide….with love and benevolence in my heart.\n\n## Going Forward\n\n- **Be Here** - We need all the oars in the water.\n- **Be Authentic** - Share what you know, think you know, and do not know.\n- **Be Loving your Neighbor** - Come alongside and add to the collective knowledge.\n- **Be Heard** - This is a safe place.  Ask if you are not clear on something\n- **Be Decisive** - 24 hour timeframe.  \n\n## Roles & Skill Categories\n\nLike all high-speed task forces, you have been carefully selected for your skillsets (current and targeted for development).  \n\n- Micro-Service Architecture\n- Code Repo - <http://www.github.com>\n- Image Repo\n- App Dev\n- PaaS Architecture\n- Scheduling \n- Monitoring\n- Database\n- Battle Buddies - 2 man teams deployed to tackle complex tasks.  \n\n## Decide on First Project\n\n1. **MLB Hitter Analysis** - good data, unclear objectives\n2. **EMC Technology Refresh** - medium quality data, clear objectives, concerns about security\n3. **District Calendars** - Publish consolidated Internet calendars. Possible conflict with existing toolsets.\n4. **Other Ideas?**\n\n## Discussion\n![as per Brian Gracely](images/Structured-Composable-Unstructured3.jpg)\n\n## Potential Architecture\n![potential architecture](images/architecture01.jpg)\n\n## Recommended Links\n* Composable PaaS - \n<http://wikibon.com/architectural-considerations-for-open-source-paas-and-container-platforms/>\n* Fire Ants Meetings\n<https://github.com/jrbattles/fire-ants-mtgs>\n* DrillingInfo - Coversion to Docker\n<http://synerzip.com/wp-content/uploads/2015/10/Microservices-on-Docker-Webinar-Synerzip.pptx>\n\n## Next Steps\n1. Code Repository - GitHub\n    * Fork this repo - <https://github.com/jrbattles/fire-ants-mtgs>\n    * Commit some changes\n    * Submit pull request\n2. ChatOps - ??\n3. Task Tracking - ??\n4. Scrum / Sprint Schedule - ??\n5. Schedule Meetings - Bat\n5. Others?\n\n## Summary Notes\n\nTask #1 - GitHub Account (use personal email).  Fork the **fire-ants-mtg** repo, commit the changes and submit a push request. \n\nTask #2 - Docker Hub account (use personal email)\n\nTask #3 - Cohen to own task tracking (and/or ChatOps) tool and make recommendations.\n\nDecision #1 - Weeekly Scrum Meetings. Bi-weekly Sprints.  Battles to schedule.\n\nDecision #2 - Email for team communications. Task Tracking tool for project comms. \n\n## R Markdown\n\nThis is an R Markdown presentation. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.\n\nWhen you click the **Knit** button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document.\n\n\n## Scooter's Slide\n\n- Installed R + R Studio + R Markdown\n\n- Starting to learn Docker and highly recommend these courses on PluralSight - <https://app.pluralsight.com/paths/skills/docker>.\n\n- This is my very first Git commit\n\n",
+    "created" : 1468007030073.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3467838688",
+    "id" : "E81FFC48",
+    "lastKnownWriteTime" : 1467844260,
+    "last_content_update" : 1467844260,
+    "path" : "~/GitHub/fire-ants-mtgs/fire-ants-mtg01.Rmd",
+    "project_path" : "fire-ants-mtg01.Rmd",
+    "properties" : {
+        "docOutlineVisible" : "0",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}

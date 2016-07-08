@@ -1,0 +1,30 @@
+---
+title: "Fire-Ants-Mtg02"
+author: "Jason Battles"
+date: "July 15, 2016"
+output: 
+  ioslides_presentation:
+  theme: united
+---
+
+## Wave1 Objectives (Battles)
+- Last 25 Outcomes per Batter
+- Scatterplot of Pitches per Batter
+- Live Game Sonar
+- Hit Sonar
+
+## Investigate Pitch F/X MLB Data (Battles)
+
+here is a [sample inning XML file](sample data](sample-data/gid_2015_09_05_texmlb_anamlb_1/inning/inning_all.xml)
+
+## Neo4j Overview (Sweers)
+
+
+## Task Tracking (Cohen)
+
+
+## Next Steps
+
+
+## Summary Notes
+
