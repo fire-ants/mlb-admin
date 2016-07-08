@@ -15,7 +15,7 @@ output:
 
 ## Investigate Pitch F/X MLB Data (Battles)
 
-here is a [sample inning XML file](sample data](sample-data/gid_2015_09_05_texmlb_anamlb_1/inning/inning_all.xml)
+here is a [sample inning XML file](sample-data/gid_2015_09_05_texmlb_anamlb_1/inning/inning_all.xml)
 
 ## Neo4j Overview (Sweers)
 
