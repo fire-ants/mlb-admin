@@ -19,6 +19,7 @@ here is a [sample inning XML file](sample-data/gid_2015_09_05_texmlb_anamlb_1/in
 Pitch F/X Overview from Data Potato
 http://www.datapotato.net/research/mlb-data
 
+
 ## HitterValue - Quantitative (I)
 Pitch               Value
 --------            --------
@@ -63,6 +64,7 @@ https://www.pivotaltracker.com/n/projects/1655703
 
 ## Next Steps
 1. Application Mock-Up
+2. Others?
 
 ## Summary Notes
 
