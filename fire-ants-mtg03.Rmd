@@ -1,0 +1,30 @@
+---
+title: "Fire-Ants-Mtg03"
+author: "Jason Battles"
+date: "July 20, 2016"
+output: 
+  ioslides_presentation: 
+    highlight: espresso
+---
+## Administrivia
+- Geek Week Scheduling - 22AUG (Moran)
+- Team Logo (Moran)
+- New News & Learning Updates? (All)
+
+## High Level Architectural Review (Sweers)
+
+## Skills Overview (Sweers)
+
+## Task Tracking (Cohen)
+
+Pivotal Tracker
+https://www.pivotaltracker.com/n/projects/1655703
+
+## Next Steps
+1. Application Mock-Up
+2. Others?
+
+## Summary Notes
+
+
+                                
