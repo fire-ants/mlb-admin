@@ -8,7 +8,7 @@ output:
 ---
 ## Administrivia
 - Geek Week Scheduling - 22AUG (Moran)
-- Team Logo (Moran)
+- Team Logo
 - New News & Learning Updates? (All)
 
 ## High Level Architectural Review (Sweers)
@@ -21,8 +21,8 @@ Pivotal Tracker
 https://www.pivotaltracker.com/n/projects/1655703
 
 ## Next Steps
-1. Application Mock-Up
-2. Others?
+1. ??
+
 
 ## Summary Notes
 
