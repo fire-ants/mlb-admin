@@ -7,8 +7,8 @@ output:
     highlight: espresso
 ---
 ## Administrivia
-- Geek Week Scheduling - 22AUG (Moran)
-- Team Logo
+- Geek Week Scheduling - 25-26AUG (Moran)
+- Team Logo Decision
 - New News & Learning Updates? (All)
 
 ## High Level Architectural Review (Sweers)
