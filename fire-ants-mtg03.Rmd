@@ -15,7 +15,7 @@ output:
 
 ## Skills Overview (Sweers)
 
-## Task Tracking (Cohen)
+## Scrum & Task Tracking (Cohen)
 
 Pivotal Tracker
 https://www.pivotaltracker.com/n/projects/1655703
