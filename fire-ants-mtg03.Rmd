@@ -21,7 +21,8 @@ Pivotal Tracker
 https://www.pivotaltracker.com/n/projects/1655703
 
 ## Next Steps
-1. ??
+1. Overview of MLB R Exploratory Data Analysis - https://github.com/jrbattles/PitchRx.git
+2. ??
 
 ## Summary Notes
 
