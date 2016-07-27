@@ -13,6 +13,7 @@ output:
 - Logo Updates 
     * Stickers arrive Friday
     * Need your address
+- 01AUG Scrum - Sweers leads.  Battles PTO
 - New News & Learning Updates? (All)
 
 ## Data Dictionary (Battles)
@@ -38,6 +39,8 @@ https://www.pivotaltracker.com/n/projects/1655703
 ## Scheduling Containers (Moran)
 
 ## Next Steps
+1. MLB Pitchers Friend - Detailed Architecture Overview (Sweers)
+2. MLB Data Analytics Walk-through (Battles)
 
 ## Summary Notes
 
