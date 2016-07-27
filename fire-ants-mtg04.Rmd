@@ -4,23 +4,29 @@ author: "Jason Battles"
 date: "July 28, 2016"
 output: 
   ioslides_presentation: 
-    highlight: espresso
+    highlight: haddock
+    logo: images/FA-LogoPack/fireants-md-logo.jpg
+    widescreen: yes
 ---
 ## Administrivia
 - Geek Week Scheduling - 25-26AUG (Moran)
-- Logo updates
+- Logo Updates 
+    * Stickers arrive Friday
+    * Need your address
 - New News & Learning Updates? (All)
 
 ## Data Dictionary (Battles)
 
 http://htmlpreview.github.io/?https://github.com/jrbattles/fire-ants-mtgs/blob/master/admin/MLB-PF-DataDictionary.html
 
-Next Steps:
-·         Define the unknown (UNK) variables
-·         Define which Phase1 variables are necessary for the MLBCrawlerAnt
+**Next Steps:**
+
+1. Define the unknown (UNK) variables
+2. Define which Phase1 variables are necessary for the MLBCrawlerAnt
 
 ## Digital Ocean (Battles)
 Join the team.  Add your key.
+https://www.digitalocean.com/
 
 ## Skills Overview (Sweers)
 
