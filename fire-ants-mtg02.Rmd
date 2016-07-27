@@ -6,16 +6,22 @@ output:
   ioslides_presentation: 
     highlight: espresso
 ---
-
-## Wave1 Objectives (Battles)
-- Last 25 Outcomes per Batter
-- Scatterplot of Pitches per Batter
-- Live Game Sonar
-- Hit Sonar
+## Administrivia
+- Geek Week - 22AUG (Moran)
+- Team Logo (Moran)
+- Weekly Scrum (Battles) 
+- Expenses (Battles)    
+- New News & Learning Updates? (All)
 
 ## Investigate Pitch F/X MLB Data (Battles)
 
+here is the [MLB Game Day data](http://gd2.mlb.com/components/game/mlb/)
+
 here is a [sample inning XML file](sample-data/gid_2015_09_05_texmlb_anamlb_1/inning/inning_all.xml)
+
+Pitch F/X Overview from Data Potato
+http://www.datapotato.net/research/mlb-data
+
 
 ## HitterValue - Quantitative (I)
 Pitch               Value
@@ -45,23 +51,25 @@ Hit By Pitch    0
                                 
 ## Neo4j Overview (Sweers)
 
+## Wave1 Objectives (Battles)
+- Last 25 Outcomes per Batter
+- Scatterplot of Pitches per Batter
+- Live Game Sonar
+- Hit Sonar
+- Edge - Node Relationships
+
 ## Skills Overview (Sweers)
 
 ## Task Tracking (Cohen)
 
+Pivotal Tracker
+https://www.pivotaltracker.com/n/projects/1655703
 
 ## Next Steps
 1. Application Mock-Up
+2. Others?
 
 ## Summary Notes
 
-## HitterValue - Qualitative (I)
-![Qualitative Scoring](images/HitterVal-QualitativeScoring.jpg)
 
-SuperNeg(-2)    Neg(-1)         Pos (+1)    SuperPos(+2)
---------        ---             -----       ------- 
-softly          grounds out     sharply     homers
-pops            flies           line
-soft                            sharp
-                                lines
                                 
