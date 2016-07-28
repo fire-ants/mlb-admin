@@ -13,7 +13,7 @@ output:
 - Logo Updates 
     * Stickers arrive Friday
     * Need your address
-- 01AUG Scrum - Sweers leads.  Battles PTO
+- 01AUG Scrum - Sweers leads.  Battles PTO next week
 - New News & Learning Updates? (All)
 
 ## Data Dictionary (Battles)
@@ -26,8 +26,13 @@ http://htmlpreview.github.io/?https://github.com/jrbattles/fire-ants-mtgs/blob/m
 2. Define which Phase1 variables are necessary for the MLBCrawlerAnt
 
 ## Digital Ocean (Battles)
-Join the team.  Add your key.
+
 https://www.digitalocean.com/
+
+**Next Steps:**
+
+1. Sweers verifies connectivity
+2. Moran interfaces with orchestration engine.
 
 ## Skills Overview (Sweers)
 
@@ -36,9 +41,13 @@ https://www.digitalocean.com/
 Pivotal Tracker
 https://www.pivotaltracker.com/n/projects/1655703
 
-## Scheduling Containers (Moran)
 
-## Next Steps
+**Next Steps:**
+
+1. Define tasks / stories (All)
+2. Decide on categories?
+
+## Next Topics
 1. MLB Pitchers Friend - Detailed Architecture Overview (Sweers)
 2. MLB Data Analytics Walk-through (Battles)
 
