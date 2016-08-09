@@ -4,23 +4,41 @@ author: "Jason Battles"
 date: "July 28, 2016"
 output: 
   ioslides_presentation: 
-    highlight: espresso
+    highlight: haddock
+    logo: images/FA-LogoPack/fireants-md-logo.jpg
+    widescreen: yes
 ---
 ## Administrivia
 - Geek Week Scheduling - 25-26AUG (Moran)
-- Logo updates
+- Logo Updates 
+    * Stickers arrive Friday
+    * Need your address
+- 01AUG Scrum - Sweers leads.  Battles PTO next week
 - New News & Learning Updates? (All)
 
 ## Data Dictionary (Battles)
 
 http://htmlpreview.github.io/?https://github.com/jrbattles/fire-ants-mtgs/blob/master/admin/MLB-PF-DataDictionary.html
 
+<<<<<<< HEAD
 Next Steps:
 - Define the unknown (UNK) variables
 - Define which Phase1 variables are necessary for the MLBCrawlerAnt
+=======
+**Next Steps:**
+
+1. Define the unknown (UNK) variables
+2. Define which Phase1 variables are necessary for the MLBCrawlerAnt
+>>>>>>> 915ea5cda33a68609c0cc790ede75bf6e4bec1d6
 
 ## Digital Ocean (Battles)
-Join the team.  Add your key.
+
+https://www.digitalocean.com/
+
+**Next Steps:**
+
+1. Sweers verifies connectivity
+2. Moran interfaces with orchestration engine.
 
 ## Skills Overview (Sweers)
 
@@ -29,9 +47,15 @@ Join the team.  Add your key.
 Pivotal Tracker
 https://www.pivotaltracker.com/n/projects/1655703
 
-## Scheduling Containers (Moran)
 
-## Next Steps
+**Next Steps:**
+
+1. Define tasks / stories (All)
+2. Decide on categories?
+
+## Next Topics
+1. MLB Pitchers Friend - Detailed Architecture Overview (Sweers)
+2. MLB Data Analytics Walk-through (Battles)
 
 ## Summary Notes
 
