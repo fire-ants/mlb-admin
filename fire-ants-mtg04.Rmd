@@ -16,8 +16,8 @@ output:
 http://htmlpreview.github.io/?https://github.com/jrbattles/fire-ants-mtgs/blob/master/admin/MLB-PF-DataDictionary.html
 
 Next Steps:
-·         Define the unknown (UNK) variables
-·         Define which Phase1 variables are necessary for the MLBCrawlerAnt
+- Define the unknown (UNK) variables
+- Define which Phase1 variables are necessary for the MLBCrawlerAnt
 
 ## Digital Ocean (Battles)
 Join the team.  Add your key.
