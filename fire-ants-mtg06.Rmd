@@ -1,0 +1,61 @@
+---
+title: "Fire-Ants-Mtg06"
+author: "Jason Battles"
+date: "August 11, 2016"
+output: 
+  ioslides_presentation: 
+    highlight: haddock
+    logo: images/FA-LogoPack/fireants-md-logo.jpg
+    widescreen: yes
+---
+## Administrivia
+- Geek Week Travel Scheduling - 25-26AUG (Moran)
+- Logo Updates - COMPLETE?
+- New News & Learning Updates? (All)
+
+## Data Dictionary (Battles)
+
+http://htmlpreview.github.io/?https://github.com/jrbattles/fire-ants-mtgs/blob/master/admin/MLB-PF-DataDictionary.html
+
+
+**Next Steps:**
+
+1. Define the unknown (UNK) variables - WIP
+2. Define which Phase1 variables are necessary for the MLBCrawlerAnt - WIP
+
+
+## Digital Ocean (Battles)
+
+https://www.digitalocean.com/
+
+**Next Steps:**
+
+1. Sweers verifies connectivity - WIP
+2. Moran interfaces with orchestration engine. - WIP
+
+## MLB Data Analytics Walk-through (Battles)
+
+Scheduled for 18AUG
+
+## Skills Overview (Sweers)
+
+## Scrum & Task Tracking (Cohen)
+
+Pivotal Tracker
+https://www.pivotaltracker.com/n/projects/1655703
+
+**Next Steps:**
+
+1. Define tasks / stories (All)
+2. Decide on categories?
+
+## Next Topics
+1. MLB Pitchers Friend - Detailed Architecture Overview (Sweers)
+2. Migrate Mtg Notes to FireAnts Team GitHub (Battles)
+3. Migrate MLB Analytics Ant Codebase to FireAnts Team GitHub (Battles)
+
+
+## Summary Notes
+
+
+                                
