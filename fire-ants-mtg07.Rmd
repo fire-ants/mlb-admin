@@ -1,0 +1,72 @@
+---
+title: "Fire-Ants-Scrum07"
+author: "Jason Battles"
+date: "August 18, 2016"
+output: 
+  ioslides_presentation: 
+    highlight: haddock
+    logo: images/FA-LogoPack/fireants-md-logo.jpg
+    widescreen: yes
+---
+## Administrivia
+- Geek Week Travel Scheduling - 25-26AUG (Moran)
+- New News & Learning Updates? (All)
+
+## MLB Admin Repo Relocation (Battles)
+Test your commits
+
+WEB - https://github.com/fire-ants/mlb-admin
+
+CONE_URL - https://github.com/fire-ants/mlb-admin.git
+
+Also created a new issue in mlb-admin.. anybody want to solve it?
+
+## Docker Swarm Cluster Overview (Moran)
+
+
+## Digital Ocean (Battles)
+
+https://www.digitalocean.com/
+
+**Next Steps:**
+
+1. Sweers verifies connectivity - WIP
+2. Moran interfaces with orchestration engine. - WIP
+
+## MLB Data Analytics Walk-through (Battles)
+
+Pushed to 26AUG
+
+## Skills Overview (Sweers)
+* Sweers
+    + API (Broker Ant)
+    + Data Acquisition (Crawler Ant)
+    + Database (Data Ant)
+* Moran
+    + Orchestration 
+* Cohen
+    + Logging
+    + Security
+* Battles
+    + Data Analytics (Analytics Ant)
+    + Admin 
+
+## Scrum & Task Tracking (Cohen)
+
+Pivotal Tracker
+https://www.pivotaltracker.com/n/projects/1655703
+
+**Next Steps:**
+
+1. Define tasks / stories (All)
+2. Decide on categories?
+
+## Next Topics
+1. MLB Pitchers Friend - Detailed Architecture Overview (Sweers)
+3. Migrate MLB Analytics Ant Codebase to FireAnts Team GitHub (Battles)
+
+
+## Summary Notes
+
+
+                                
