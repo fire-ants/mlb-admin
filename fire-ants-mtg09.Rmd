@@ -1,0 +1,40 @@
+---
+title: "Fire-Ants-Scrum09"
+author: "Jason Battles"
+date: "September 1, 2016"
+output:
+  ioslides_presentation:
+    highlight: espresso
+    logo: images/FA-LogoPack/fireants-md-logo.jpg
+    widescreen: yes
+  slidy_presentation:
+    highlight: espresso
+---
+## Administrivia
+- New News & Learning Updates? (All)
+
+
+## Heat Map vs. HVal Map (Cohen)
+
+## MLB Admin Repo Relocation (Battles)
+Test your commits
+
+WEB - https://github.com/fire-ants/mlb-admin
+
+CLONE_URL - https://github.com/fire-ants/mlb-admin.git
+
+Also created a new issue in mlb-admin.. anybody want to solve it? (Moran)
+
+## Docker Swarm Cluster Overview (Moran)
+
+## Next Topics
+1. MLB Pitchers Friend - Detailed Architecture Overview 
+3. Migrate MLB Analytics Ant Codebase to FireAnts Team GitHub (Battles)
+3. Database Overview (Sweers)
+3. Integration Overview 
+
+
+## Summary Notes
+
+
+                                
