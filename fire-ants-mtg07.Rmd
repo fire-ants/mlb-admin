@@ -65,6 +65,8 @@ https://www.pivotaltracker.com/n/projects/1655703
 1. MLB Pitchers Friend - Detailed Architecture Overview (Sweers)
 3. Migrate MLB Analytics Ant Codebase to FireAnts Team GitHub (Battles)
 
+Moran - GitHub Solving Issues
+Battles - Density Map vs. Contour (Cohen)
 
 ## Summary Notes
 
