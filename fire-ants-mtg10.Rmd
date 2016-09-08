@@ -13,26 +13,22 @@ output:
 ## Administrivia
 - New News & Learning Updates? (All)
 
-
-## Heat Map vs. HVal Map (Cohen)
-
-## MLB Admin Repo Relocation (Battles)
-Test your commits
-
-WEB - https://github.com/fire-ants/mlb-admin
-
-CLONE_URL - https://github.com/fire-ants/mlb-admin.git
-
-Also created a new issue in mlb-admin.. anybody want to solve it? (Moran)
+## Analytics Updates & Next Steps
+* Heat Map vs. HVal Map 
+* Color Scheme Harmonization
+* Object Storage
+* mlbID Variable
 
 ## Docker Swarm Cluster Overview (Moran)
+
+## API Integration Information (Sweers)
+
+## Database Overview (Sweers)
 
 ## Next Topics
 1. MLB Pitchers Friend - Detailed Architecture Overview 
 3. Migrate MLB Analytics Ant Codebase to FireAnts Team GitHub (Battles)
-3. Database Overview (Sweers)
 3. Integration Overview 
-
 
 ## Summary Notes
 
