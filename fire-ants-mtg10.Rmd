@@ -1,7 +1,7 @@
 ---
 title: "Fire-Ants-Scrum10"
 author: "Jason Battles"
-date: "September 8, 2016"
+date: "September 9, 2016"
 output:
   ioslides_presentation:
     highlight: espresso
@@ -14,21 +14,24 @@ output:
 - New News & Learning Updates? (All)
 
 ## Analytics Updates & Next Steps
+* Defining interactions between MLB-API-Ant & MLB-Analytics-Ants
+    - variables (MLBid, Date)
+    - sample data format
+    - sample URL
 * Heat Map vs. HVal Map 
 * Color Scheme Harmonization
 * Object Storage
-* mlbID Variable
 
 ## Docker Swarm Cluster Overview (Moran)
+* Updates on Rocker?
 
 ## API Integration Information (Sweers)
 
 ## Database Overview (Sweers)
 
 ## Next Topics
-1. MLB Pitchers Friend - Detailed Architecture Overview 
+1. MLB Pitchers Friend - Detailed Architecture Overview (Battles)
 3. Migrate MLB Analytics Ant Codebase to FireAnts Team GitHub (Battles)
-3. Integration Overview 
 
 ## Summary Notes
 
