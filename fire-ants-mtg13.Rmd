@@ -15,11 +15,11 @@ output:
 ## Release 1.0 Progress
 ![](images/prog-20160929.png)
 
-* UI - no focus
-* API Ant - finish debugging
-* Analytics Ant - variables, colors, object storage, containers
-* DB Ant - finish debugging
-* Crawler Ant - ??
+* **UI** - no focus. 5% due to Hello World.
+* **API Ant** - link to the database, test, containerize.
+* **Analytics Ant** - unhook PitchRx, variables, colors, object storage, native ggplot, containerize.
+* **DB Ant** - link up the API and test.
+* Crawler Ant - containerize, schedule.
 
 ## Administrivia
 - Confirm fireants.io email operational (Cohen, Sweers)
