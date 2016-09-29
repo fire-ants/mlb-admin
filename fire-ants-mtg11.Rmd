@@ -3,12 +3,14 @@ title: "Fire-Ants-Scrum11"
 author: "Jason Battles"
 date: "September 15, 2016"
 output:
+  beamer_presentation: 
+    highlight: espresso
+  slidy_presentation:
+    highlight: espresso
   ioslides_presentation:
     highlight: espresso
     logo: images/FA-LogoPack/fireants-md-logo.jpg
     widescreen: yes
-  slidy_presentation:
-    highlight: espresso
 ---
 ## Administrivia
 - Confirm fireants.io email operational (Cohen, Sweers)
