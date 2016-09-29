@@ -1,0 +1,63 @@
+---
+title: "Fire-Ants-Scrum13"
+author: "Jason Battles"
+date: "September 29, 2016"
+output:
+  ioslides_presentation:
+    highlight: espresso
+    logo: images/FA-LogoPack/fireants-md-logo.jpg
+    widescreen: yes
+  beamer_presentation:
+    highlight: espresso
+  slidy_presentation:
+    highlight: espresso
+---
+## Release 1.0 Progress
+![](images/prog-20160929.png)
+
+* UI - no focus
+* API Ant - finish debugging
+* Analytics Ant - variables, colors, object storage, containers
+* DB Ant - finish debugging
+* Crawler Ant - ??
+
+## Administrivia
+- Confirm fireants.io email operational (Cohen, Sweers)
+- ReactNative Discussion
+- New News & Learning Updates? (All)
+- Moving Forward
+
+## Database Overview 
+* MongoDB deployed
+* Store information as natively as possible.
+* Next Steps?
+
+## Analytics Updates & Next Steps
+* Defining interactions between MLB-API-Ant & MLB-Analytics-Ants
+    - variables (MLBid, Date)
+    - sample data format
+    - sample URL
+* Heat Map vs. HVal Map 
+* Color Scheme Harmonization
+* Object Storage
+* Pitch Transformations
+    - FS / SI / SF -> SI = fastball (sinker, split-fingered)
+    - CB / CU -> CU = Curveball
+    - UN / XX / PO / FO -> XX = not applicable
+    
+## Pitches (Looking at RHP)
+![Image of RHP location](images/typical_spin_deflection.jpg)
+
+## Docker Swarm Cluster Overview (Moran)
+* Updates on Rocker?
+
+## API Integration Information (Sweers)
+
+## Next Topics
+1. MLB Pitchers Friend - Detailed Architecture Overview (Battles)
+3. Migrate MLB Analytics Ant Codebase to FireAnts Team GitHub (Battles)
+
+## Summary Notes
+
+
+                                
