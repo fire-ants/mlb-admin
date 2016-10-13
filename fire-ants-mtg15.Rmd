@@ -55,6 +55,12 @@ output:
 3. Migrate MLB Analytics Ant Codebase to FireAnts Team GitHub (Battles)
 
 ## Summary Notes
-
+* scheduling tasks working with DockerSwarm (Brian)
+    - Persistent Containers - API-Anti, Mongo-Ant
+    - Scheduled Containers - Crawler-Ant, Analytics-Ant
+* Create username / password on MongoDB (Battles)
+* Restrict access IPs for MongoDB for security (Battles)
+* Connect to Virtustream Object Store (Cohen)
+* Crawler - 
 
                                 
