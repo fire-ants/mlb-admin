@@ -1,0 +1,60 @@
+---
+title: "Fire-Ants-Scrum15"
+author: "Jason Battles"
+date: "Oct 13, 2016"
+output:
+  ioslides_presentation:
+    highlight: espresso
+    logo: images/FA-LogoPack/fireants-md-logo.jpg
+    widescreen: yes
+  beamer_presentation:
+    highlight: espresso
+  slidy_presentation:
+    highlight: espresso
+---
+## Release 1.0 Progress
+![](images/prog-20161013.png)
+
+* **UI** - no focus. 6% due to Hello World.
+* **API Ant** - link to the database, test, containerize.
+* **Analytics Ant** - unhook PitchRx, variables, colors, object storage, native ggplot, containerize.
+* **DB Ant** - link up the API and test.
+* **Crawler Ant** - containerize, schedule.
+
+## Administrivia
+- Confirm fireants.io email operational (Cohen, Sweers)
+- ReactNative Discussion
+- New News & Learning Updates? (All)
+- Moving Forward
+
+## Database Overview 
+* MongoDB deployed
+* Store information as natively as possible.
+* Next Steps?
+
+## Analytics Updates & Next Steps
+* Defining interactions between MLB-API-Ant & MLB-Analytics-Ants
+    - variables (MLBid, Date)
+    - sample data format
+    - sample URL
+* Heat Map vs. HVal Map 
+* Color Scheme Harmonization
+* Object Storage
+* Pitch Transformations
+    - FS / SI / SF -> SI = fastball (sinker, split-fingered)
+    - CB / CU -> CU = Curveball
+    - UN / XX / PO / FO -> XX = not applicable
+    
+## Docker Swarm Cluster Overview (Moran)
+* Updates on Rocker?
+
+## API Integration Information (Sweers)
+
+## Next Topics
+1. MLB Pitchers Friend - Detailed Architecture Overview (Battles)
+3. Migrate MLB Analytics Ant Codebase to FireAnts Team GitHub (Battles)
+
+## Summary Notes
+
+
+                                
