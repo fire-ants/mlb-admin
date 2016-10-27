@@ -1,7 +1,7 @@
 ---
-title: "Fire-Ants-Scrum15"
+title: "Fire-Ants-Scrum16"
 author: "Jason Battles"
-date: "Oct 20, 2016"
+date: "Oct 28, 2016"
 output:
   ioslides_presentation:
     highlight: espresso
@@ -12,25 +12,26 @@ output:
   slidy_presentation:
     highlight: espresso
 ---
-## Release 1.0 Progress
-![](images/prog-20161013.png)
-
-* **UI** - no focus. 6% due to Hello World.
-* **API Ant** - link to the database, test, containerize.
-* **Analytics Ant** - unhook PitchRx, variables, colors, object storage, native ggplot, containerize.
-* **DB Ant** - link up the API and test.
-* **Crawler Ant** - containerize, schedule.
-
 ## Administrivia
-- Confirm fireants.io email operational (Cohen, Sweers)
-- ReactNative Discussion
+- Questions
+    * Scheduling Containers
+    * Containerized Java
 - New News & Learning Updates? (All)
 - Moving Forward
+    * Application Flow
+    
+## Application Flow / Architecture Overview
+![](admin/mlb-pf-appflow-md.png)
 
-## Database Overview 
-* MongoDB deployed
-* Store information as natively as possible.
-* Next Steps?
+## Release 1.0 Progress
+![](images/prog-20161027.png)
+
+* **Queen Ant** - new item
+* **UI** - no focus. 6% due to Hello World.
+* **API Ant** - link to the database, test, containerize.
+* **Analytics Ant** - progress on Object Store, containers... Need to unhook PitchRx, vars, cols, native ggplot.
+* **Mongo Ant** - SSH connectivity confirmed.
+* **Crawler Ant** - containerize, schedule.
 
 ## Analytics Updates & Next Steps
 * Defining interactions between MLB-API-Ant & MLB-Analytics-Ants
@@ -51,7 +52,7 @@ output:
 ## API Integration Information (Sweers)
 
 ## Next Topics
-1. MLB Pitchers Friend - Detailed Architecture Overview (Battles)
+1. MLB Pitchers Friend - Detailed Architecture Overview (Battles) - DONE
 3. Migrate MLB Analytics Ant Codebase to FireAnts Team GitHub (Battles)
 
 ## Summary Notes
