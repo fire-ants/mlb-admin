@@ -67,5 +67,9 @@ output:
     2. github.com (Fire-Ants org)
     3. digitalocean.com (Fire Ants org)
 - **03-GenerateImages.R** - example productiion code (https://github.com/fire-ants/mlb-analytics-ant/blob/master/03-GenerateImages.R)
+- For next scrum...
+    1. Nixon - updates on Mobile investigation
+    2. Mordi - updates on R code discovery
+    3. Sweers - updates on API formats
 
                                 
