@@ -40,7 +40,10 @@ joined <- pitchesTrout %>% mutate(quant_score_des = get_quant_score(des),
 
   
 ## Summary Notes
-
+- Battles to distribute CSV of **joined** data set.  (need to add zone from pitch)
+- Cohen to share sample image URL to Virtustream Object Store
+- Sweers to continue development of API. Add player headshots and vitals.
+- Scrum cancelled for 23MAR.  Resume 30MAR.
    
 
                                 
