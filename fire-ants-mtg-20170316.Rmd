@@ -1,0 +1,46 @@
+---
+title: "Fire-Ants-Scrum"
+author: "Jason Battles"
+date: "March 16, 2017"
+output:
+  ioslides_presentation:
+    highlight: espresso
+    logo: images/FA-LogoPack/fireants-md-logo.jpg
+    widescreen: yes
+  beamer_presentation:
+    highlight: espresso
+  slidy_presentation:
+    highlight: espresso
+---
+## Administrivia
+- Weekly Fire Ants Scrum (THU, 1500CST)
+- 2017 Fire Ants Launch (11-13APR)
+
+## Topics
+ - Sweers - integration with the API
+ - Nixon - updates on Mobile investigation
+
+## API Integration Information (Sweers)
+
+```{r eval=FALSE}
+scrape(start = "2016-04-03", end = "2016-11-02", suffix = "inning/inning_all.xml", connect = my_db1$con)
+pitch16 <- select(tbl(my_db1, "pitch"), gameday_link, num, des, type, tfs, tfs_zulu, id, sz_top, sz_bot, px, pz, pitch_type, count)
+atbat16 <- select(tbl(my_db1, "atbat"), gameday_link, num, pitcher, batter, b_height, pitcher_name, p_throws, batter_name, stand, atbat_des, event, inning, inning_side)
+batsTrout <- filter(atbat16, batter == "545361")
+pitchesTrout <- collect(inner_join(pitch16, batsTrout))
+
+joined <- pitchesTrout %>% mutate(quant_score_des = get_quant_score(des),
+                                   fix_quant_score = fix_quant_score(event) * (des == 'In play, run(s)'),
+                                   quant_score = quant_score_des + fix_quant_score,
+                                   qual_score = get_qual_score(atbat_des) * (type == 'X'),
+                                   hitter_val = quant_score + qual_score)
+```
+ 
+## Mobile Code Snippets (Nixon)
+
+  
+## Summary Notes
+
+   
+
+                                
