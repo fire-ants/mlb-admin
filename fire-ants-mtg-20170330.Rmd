@@ -51,7 +51,14 @@ joined <- pitchesTrout %>% mutate(quant_score_des = get_quant_score(des),
 ## Mobile Code Snippets (Nixon)
 
 ## Summary Notes
-- 
+- Sweers to compare joined CSV to API and update
+- Cohen to share sample image URL to Virtustream Object Store
+- Sweers to continue development of API. Add player headshots and vitals.
+- Next Scrum schedule for 06APR.
+- Sweers - new customer conversations regarding Continuous Integration (Shazam, Cambridge Investments).
+- Nixon - Mobile UI "scaffolding". Redux for state mgmt & control.
+- Cohen - eBag stateless web components.  Boto Python library.
+- Battles - OU, state agencies. Application Mock-Ups. ReactNative inital effort (PropertyFinder) 
    
 
                                 
