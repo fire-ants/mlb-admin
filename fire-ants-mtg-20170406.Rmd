@@ -16,7 +16,7 @@ output:
 * **2017 Fire Ants Launch** (11-13APR) - car, hotels
     + Location - [Sigma Solutions](https://www.google.com/maps/place/Sigma+Solutions+Inc/@36.1533956,-95.9942485,17z/data=!4m12!1m6!3m5!1s0x87b6eb79ba70a329:0x5a75ae8af23ccbe1!2sSigma+Solutions+Inc!8m2!3d36.1533956!4d-95.9920598!3m4!1s0x87b6eb79ba70a329:0x5a75ae8af23ccbe1!8m2!3d36.1533956!4d-95.9920598)
     + Day 1 
-        - **CrawlerAnt** (Aaron, Benita)
+        - **APIAnt** (Aaron, Benita)
         - **MobileAnt** (Darren, Bat).
     + Day 2 
         - **MobileAnt** (Darren, Aaron), 
@@ -50,3 +50,6 @@ output:
 ## Mobile Code Snippets (Nixon)
 
 ## Summary Notes
+* Cohen, Bat to determine strategy for workload scheduling.
+* Sweers to clean up old repositories
+* Bat to send targeted MLBids to Darren
