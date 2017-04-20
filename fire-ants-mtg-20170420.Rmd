@@ -14,7 +14,7 @@ output:
 ---
 ## Administrivia
  - Around the Horn
- - 
+ 
         
 ## Notes From Last Scrum / Launch Workshop
 - Great progress.
@@ -24,17 +24,24 @@ output:
 ## Release 1.0 Progress
 ![](images/prog-20170420.png)
 
-* **Queen Ant** - deprecated?
+* **Queen Ant** - initiate calls to Analytics Ant and Crawler Ant
 * **Mobile UI** - Navigation completed.  Virtustream.
-* **API Ant** - fields added?
-* **Analytics Ant** - code completed.  containerize.
-* **Mongo Ant** - fields.
-* **Crawler Ant** - next steps?
+* **API Ant** - add "event" field
+* **Analytics Ant** - code completed.  containerize wired to db.
+* **Mongo Ant** - improve security
+* **Crawler Ant** - containerize
  
 ## Topics
 
 ## Summary Notes
-
-   
+- Discussed Machine Learning.  Bee outlined Machine Learning in terms of medical diagnoses.
+- Bee working on replacing StrikeFX models (subtract 1 density from another). 
+- Darren reports Navigation & Wiring completed.  2pm CDT webex scheduled for Mobile UI Overview
+- Bat woking on Machine Learning. 3pm CDT webex scheduled for Container overview
+- Dan outlined some recent React Native releases (gestures, Android GUI, etc.).  Also shared some limitations regarding Virtustream Object store.  Access credentials are managed via a proxy web server (i.e. nginix)
+- Sweezy working to add fields to API and will send updated URL for the special students
+- Queen Ant will initiate call to Analytics Ant and Crawler Ant   
+- Mongo Ant needs a little more security.  95%
+- Crawler Ant needs to be containerized.
 
                                 
