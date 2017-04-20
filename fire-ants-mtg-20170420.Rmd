@@ -20,7 +20,6 @@ output:
 - Great progress.
 - New team coming together.
 
-## Topics
 
 ## Release 1.0 Progress
 ![](images/prog-20170420.png)
@@ -32,6 +31,8 @@ output:
 * **Mongo Ant** - fields.
 * **Crawler Ant** - next steps?
  
+## Topics
+
 ## Summary Notes
 
    
