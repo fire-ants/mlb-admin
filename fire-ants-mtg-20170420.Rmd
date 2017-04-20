@@ -1,0 +1,39 @@
+---
+title: "Fire-Ants-Scrum"
+author: "Jason Battles"
+date: "April 20, 2017"
+output:
+  ioslides_presentation:
+    highlight: espresso
+    logo: images/FA-LogoPack/fireants-md-logo.jpg
+    widescreen: yes
+  beamer_presentation:
+    highlight: espresso
+  slidy_presentation:
+    highlight: espresso
+---
+## Administrivia
+ - Around the Horn
+ - 
+        
+## Notes From Last Scrum / Launch Workshop
+- Great progress.
+- New team coming together.
+
+## Topics
+
+## Release 1.0 Progress
+![](images/prog-20170420.png)
+
+* **Queen Ant** - deprecated?
+* **Mobile UI** - Navigation completed.  Virtustream.
+* **API Ant** - fields added?
+* **Analytics Ant** - code completed.  containerize.
+* **Mongo Ant** - fields.
+* **Crawler Ant** - next steps?
+ 
+## Summary Notes
+
+   
+
+                                
