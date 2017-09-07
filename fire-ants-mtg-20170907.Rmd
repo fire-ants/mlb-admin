@@ -18,25 +18,29 @@ output:
 
 ## Administrivia
 - Fire Ants Workshops
-    * 24-26OCT  Kansas City or Cambridge Dojo
+    * 24-26OCT  Kansas City or Cambridge Dojo. Alternate - week of 06NOV
     * 12-14DEC  Des Moine
     * 03-05APR  Chicago
 - New Application Ideas
-    * Rourke - Discount Tires & OnQ Financial ()
+    * Rourke - Discount Tires & OnQ Financial 
     * Davenport - Analytics & Visualizations
-    * 
+    * Cohen - 2 Song Break (cloud foundry app with API to Spotify)
     
 ## Application Flow / Architecture Overview
 ![](admin/mlb-pf-appflow-md.png)
 
 ## Release 1.0 Progress
-* **UI** - updating head-shot URLs
+* **Mobile Ant** - updating head-shot URLs.
 * **Machine Learning Ant** - progress?
-* **API Ant** - completed.  Fields may be added for machine learning
+* **API Ant** - completed.  Fields may be added for machine learning. PUT char string.
 * **Analytics Ant** - completed. Heat Maps removed. 
 * **Mongo Ant** - completed.
 * **Crawler Ant** - completed.
 
 ## Summary Notes
-* 
+* Schedule update CRONS for Sundays at 2am.
+* https://www.tiobe.com/tiobe-index/
+* https://github.com/gliderlabs/logspout
+* https://www.tddapps.com/2017/02/18/how-to-run-any-container-on-a-schedule/
+
                                 
