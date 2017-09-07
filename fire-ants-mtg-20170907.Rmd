@@ -12,6 +12,10 @@ output:
   slidy_presentation:
     highlight: espresso
 ---
+## Fire Ants - Denver
+![](images/FireAnts-Denver-20170831.png)
+
+
 ## Administrivia
 - Fire Ants Workshops
     * 24-26OCT  Kansas City or Cambridge Dojo
