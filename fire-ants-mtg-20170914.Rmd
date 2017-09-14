@@ -1,0 +1,57 @@
+---
+title: "Fire-Ants-Scrum"
+author: "Jason Battles"
+date: "September 14, 2017"
+output:
+  ioslides_presentation:
+    highlight: espresso
+    logo: images/FA-LogoPack/fireants-md-logo.jpg
+    widescreen: yes
+  beamer_presentation:
+    highlight: espresso
+  slidy_presentation:
+    highlight: espresso
+---
+## Fire Ants - Denver
+![](images/FireAnts-Denver-20170831.png)
+
+
+## Administrivia (I)
+Welcome **Colin Goyette**!
+
+![](images/colin.jpg)
+
+## Administrivia (II)
+- Fire Ants Workshops
+    * 07-09NOV (orig 24-26OCT)  Kansas City 
+    * 06-08FEB? (orig 12-14DEC)  Des Moine
+    * 03-05APR  Chicago
+- New Application Ideas
+    * Rourke - Discount Tires & OnQ Financial 
+    * Davenport - Analytics & Visualizations
+    * Cohen - 2 Song Break (cloud foundry app with API to Spotify)
+    
+## Application Flow / Architecture Overview
+![](admin/mlb-pf-appflow-md.png)
+
+## Release 1.0 Progress
+![](images/prog-20170914.png)
+
+* **Mobile Ant** - updating head-shot URLs.  Goolg Play, Apple Store submissions.
+* **Machine Learning Ant** - challenges with parsing Classification Trees.
+* **API Ant** - completed.  Fields may be added for machine learning. PUT char string.
+* **Analytics Ant** - completed. Heat Maps removed. 
+* **Mongo Ant** - completed.
+* **Crawler Ant** - scheduling
+
+## Summary Notes from last Scrum
+* Schedule update CRONS for Sundays at 2am.
+* https://www.tiobe.com/tiobe-index/
+* https://github.com/gliderlabs/logspout
+* https://www.tddapps.com/2017/02/18/how-to-run-any-container-on-a-schedule/
+
+
+## Summary Notes
+
+                                
+                                
