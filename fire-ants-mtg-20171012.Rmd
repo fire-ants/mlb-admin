@@ -22,14 +22,12 @@ output:
 ## Fire Ants Workshop (Nix)
 * Nix is hosting us in  **Kansas City**
 * 1200, **07NOV**(TUE) thru 1700, **09NOV** (THU)
-
 ```{python eval=FALSE}
 Courtyard Kansas City Country Club Plaza
 4600 J C Nichols Parkway, Kansas City, MO 64112
 ```
 
-
-![Courtyard Kansas City Plaza](images/kc-courtyard.jpg)
+![Kansas City - Courtyard Plaza](images/kc-courtyard.jpg)
 
 ## Upcoming Fire Ants Workshops
     - **06-08FEB** Des Moine
@@ -58,8 +56,7 @@ Courtyard Kansas City Country Club Plaza
 ![](images/prog-20170914.png)
 
 * **Mobile Ant** - updating head-shot URLs.  Google Play, Apple Store submissions.
-* **Machine Learning Ant** - challenges with parsing Classification Trees.
-Altuve. zone, p_type, away, 90% GOOD for a pitcher.  nasty<60 85% BAD for pitcher
+* **Machine Learning Ant** - discussing sampling
 * **Analytics Ant** - completed. Dan to activate via cron. 
 * **Crawler Ant** - scheduling
 
