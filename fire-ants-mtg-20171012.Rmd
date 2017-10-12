@@ -23,18 +23,18 @@ output:
 * Nix is hosting us in  **Kansas City**
 * 1200, **07NOV**(TUE) thru 1700, **09NOV** (THU)
 
-````Courtyard Kansas City Country Club Plaza````
+```{python eval=FALSE}
+Courtyard Kansas City Country Club Plaza
+4600 J C Nichols Parkway, Kansas City, MO 64112
+```
 
-````4600 J C Nichols Parkway, Kansas City, MO 64112````
 
 ![Courtyard Kansas City Plaza](images/kc-courtyard.jpg)
 
-
-
-# Upcoming Fire Ants Workshops
-    * 07-09NOV (orig 24-26OCT)  Kansas City 
-    * 06-08FEB? (orig 12-14DEC)  Des Moine - calendars updated
-    * 03-05APR  Chicago
+## Upcoming Fire Ants Workshops
+    - **06-08FEB** Des Moine
+    - **03-05APR** Chicago
+    - **JUN NYC?**
     
 ## New Application Ideas
     * Rourke - Discount Tires & OnQ Financial 
@@ -51,7 +51,6 @@ output:
     * Goyette - sampling and "forest of trees"
     * Battles - 
     
-
 ## Application Flow / Architecture Overview
 ![](admin/mlb-pf-appflow-md.png)
 
