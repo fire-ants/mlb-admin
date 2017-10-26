@@ -18,6 +18,7 @@ output:
 * Bat to provide legalese and court cases to Nix
 * Nix to submit to Google Play
 * Bat to update workshop dates in the calendar.
+* Nix now submitting "cartooned" images
 
 ## Fire Ants Workshop (Nix)
 * Nix is hosting us in  **Kansas City**
@@ -54,13 +55,13 @@ Courtyard Kansas City Country Club Plaza
 
 ## Release 1.0 Progress
 ![](images/prog-20170914.png)
-
 * **Mobile Ant** - updating head-shot URLs.  Google Play, Apple Store submissions.
 * **Machine Learning Ant** - discussing sampling
 * **Analytics Ant** - completed. Dan to activate via cron. 
 * **Crawler Ant** - scheduling
 
 ## Summary Notes
-*
+* Nix to distribute link for booking block of rooms.
+* 
                                 
                                 
