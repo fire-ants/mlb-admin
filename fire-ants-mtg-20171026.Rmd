@@ -44,7 +44,9 @@ Courtyard Kansas City Country Club Plaza
     * Nixon - Cartoonization
     * Mordi - 
     * Goyette - PCP and 
-    * Battles - Fire Ants, LLC
+    * Battles
+        - Fire Ants, LLC.DUNS number-080931888.
+        - CloudNativeCon - https://www.cncf.io/event/cloudnativecon-north-america-2017/
     
 ## Release 1.0 Progress
 ![](images/prog-20170914.png)
