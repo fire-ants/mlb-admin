@@ -36,6 +36,7 @@ Courtyard Kansas City Country Club Plaza
     * Davenport - Analytics & Visualizations
     * Cohen - 2 Song Break (cloud foundry app with API to Spotify)
     * Goyette - Modernization of Tools (i.e. OpsConsole, CST)
+    * Cogdill - 40 Lenses / 40 Answers. http://slyasafox.com/stuff/DV40.pdf 
     
 ## Administrivia
 - Around the Horn
@@ -43,10 +44,10 @@ Courtyard Kansas City Country Club Plaza
     * Sweezy - 
     * Nixon - Cartoonization
     * Mordi - 
-    * Goyette - PCP and 
+    * Goyette - PCP
     * Battles
         - Fire Ants, LLC.DUNS number-080931888.
-        - CloudNativeCon - https://www.cncf.io/event/cloudnativecon-north-america-2017/
+        - CloudNativeCon -We have a 20% discount using code `CNKCNA17SPON`.  https://www.cncf.io/event/cloudnativecon-north-america-2017/
     
 ## Release 1.0 Progress
 ![](images/prog-20170914.png)
