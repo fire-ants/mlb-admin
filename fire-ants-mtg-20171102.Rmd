@@ -1,0 +1,65 @@
+---
+title: "Fire-Ants-Scrum"
+author: "Jason Battles"
+date: "November 2, 2017"
+output:
+  ioslides_presentation:
+    highlight: espresso
+    logo: images/FA-LogoPack/fireants-md-logo.jpg
+    widescreen: yes
+  beamer_presentation:
+    highlight: espresso
+  slidy_presentation:
+    highlight: espresso
+---
+## Summary Notes
+* Nix to distribute link for booking block of rooms.
+* Nix now submitting "cartooned" images
+
+## Fire Ants Workshop (Nix)
+* Nix is hosting us in  **Kansas City**
+* 1200, **07NOV**(TUE) thru 1700, **09NOV** (THU)
+```{python eval=FALSE}
+Courtyard Kansas City Country Club Plaza
+4600 J C Nichols Parkway, Kansas City, MO 64112
+```
+
+![Kansas City - Courtyard Plaza](images/kc-courtyard.jpg)
+
+## Upcoming Fire Ants Workshops
+    - **06-08FEB** Des Moine
+    - **03-05APR** Chicago
+    - **JUN NYC?**
+    
+## New Application Ideas
+    * Rourke - Discount Tires & OnQ Financial 
+    * Davenport - Analytics & Visualizations
+    * Cohen - 2 Song Break (cloud foundry app with API to Spotify)
+    * Goyette - Modernization of Tools (i.e. OpsConsole, CST)
+    * Piatti/Joyce - Resource Wheel
+    * Cogdill - 40 Lenses / 40 Answers. http://slyasafox.com/stuff/DV40.pdf 
+    
+## Administrivia
+- Around the Horn
+    * Cohen - Needs URL?
+    * Sweezy - 
+    * Nixon - Cartoonization
+    * Mordi - 
+    * Goyette - PCP
+    * Battles
+        - Fire Ants, LLC.DUNS number-080931888.
+        - Organization Discussion? - Open to additions.
+        - CloudNativeCon -We have a 20% discount using code `CNKCNA17SPON`.  https://www.cncf.io/event/cloudnativecon-north-america-2017/
+    
+## Release 1.0 Progress
+![](images/prog-20170914.png)
+
+* **Mobile Ant** - updating head-shot URLs.  Google Play, Apple Store submissions.
+* **Machine Learning Ant** - discussing sampling
+* **Analytics Ant** - completed. Dan to activate via cron. 
+* **Crawler Ant** - scheduling
+
+## Summary Notes
+* ??
+                                
+                                
