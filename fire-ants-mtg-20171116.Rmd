@@ -18,6 +18,7 @@ output:
 ## Summary Notes
 * Great workshop last week.
 * Bat to get iTunes Connect operational. 
+* Bat to migrate to new Slack environment.
 * Bat / Sweers to upload PF
 * Bat to update app flow diagram
 * Bat to onboard additional team member (Kenny)
@@ -25,6 +26,7 @@ output:
 * Sweers to create Fire Ants blog.  All team members contribute content
 * Bat to notify sponsors of projects not selected
 * Cohen to clean-up orchestration
+* Nixon working to pull ML guidance from API
 
 ## Upcoming Fire Ants Workshops
     - **06-08FEB** Des Moine
@@ -33,19 +35,19 @@ output:
     
 ## Targeted Applications
     * Pitcher's Friend 2.0
-        - Update machine learnig algorithm
+        - Update machine learning algorithm
         - add ML to mobile app
         - migrate to Pivotal Cloud Foundry
     * F5 - Tornado Alley Data Analytics 
     
 ## Around the Horn
 
-* **Cohen** - 
-* **Sweezy** - 
-* **Nixon** - 
-* **Mordi** - 
-* **Goyette** - 
-* **Battles**
+* **Cohen** - Python working well in containers.
+* **Sweezy** - ABSENT
+* **Nixon** - mobile integration with API.
+* **Mordi** - augmented classification trees with  OneHot approach, and new interesting variables.  
+* **Goyette** - drafting updated ML algrorithm.
+* **Battles** - scrum cancelled for next week.  Geeking out on Digital Ocean and GeoJSON.
       
 ## Release 1.0 Progress
 ![](images/prog-20171116.png)
@@ -56,6 +58,7 @@ output:
 * **Crawler Ant** 
 
 ## Summary Notes
-* ??
+* Bat - send app flow to Benita
+* Goyette - creating draft for PF2.0 ML algorithms
                                 
                                 
