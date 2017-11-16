@@ -1,0 +1,61 @@
+---
+title: "Fire-Ants-Scrum"
+author: "Jason Battles"
+date: "November 16, 2017"
+output:
+  ioslides_presentation:
+    highlight: espresso
+    logo: images/FA-LogoPack/fireants-md-logo.jpg
+    widescreen: yes
+  beamer_presentation:
+    highlight: espresso
+  slidy_presentation:
+    highlight: espresso
+---
+## The Fire Ants
+![The Fire Ants](images/FireAnts-KC-20171110b.jpg)
+
+## Summary Notes
+* Great workshop last week.
+* Bat to get iTunes Connect operational. 
+* Bat / Sweers to upload PF
+* Bat to update app flow diagram
+* Bat to onboard additional team member (Kenny)
+* Bat to schedule module review.
+* Sweers to create Fire Ants blog.  All team members contribute content
+* Bat to notify sponsors of projects not selected
+* Cohen to clean-up orchestration
+
+## Upcoming Fire Ants Workshops
+    - **06-08FEB** Des Moine
+    - **03-05APR** Chicago
+    - **JUN NYC?**
+    
+## Targeted Applications
+    * Pitcher's Friend 2.0
+        - Update machine learnig algorithm
+        - add ML to mobile app
+        - migrate to Pivotal Cloud Foundry
+    * F5 - Tornado Alley Data Analytics 
+    
+## Around the Horn
+
+* **Cohen** - 
+* **Sweezy** - 
+* **Nixon** - 
+* **Mordi** - 
+* **Goyette** - 
+* **Battles**
+      
+## Release 1.0 Progress
+![](images/prog-20171116.png)
+
+* **Mobile Ant** - Apple Store submissions.
+* **Machine Learning Ant** 
+* **Analytics Ant**   
+* **Crawler Ant** 
+
+## Summary Notes
+* ??
+                                
+                                
