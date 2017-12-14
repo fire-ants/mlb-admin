@@ -26,12 +26,12 @@ output:
 * Nixon working to pull ML guidance from API
 
 ## Administrivia
-* 2018 Scrum Schedule - THU afternoon still okay?
+* 2018 Scrum Schedule - THU afternoon still okay? GOOD
 * LinkedIn - https://www.linkedin.com/company/the-fire-ants/
 * Upcoming Fire Ants Workshops
     - **06-08FEB** Des Moines
     - **03-05APR** Chicago
-    - **JUN NYC?**
+    - **JUN NYC?** - Pivotal office? Kenny to inquire.
     
 ## Targeted Applications
     * Pitcher's Friend 2.0
@@ -43,10 +43,12 @@ output:
 ## Around the Horn
 
 * **Cohen** - CUST MTG
-* **Sweezy** -
-* **Nixon** - 
-* **Mordi** -   
-* **Goyette** - 
+* **Sweezy** - working on the WordPress blog
+* **Nixon** - TRNG
+* **Mordi** - updating app flow diagram
+* **Goyette** - working draft of analytics write-up. share via slack. developing ideas for improving model.
+* **Sabarese** - PKS as viable option? 4 factor app works fine too. Explore PKS via separate meeting and slack
+* **Telep** - evaluate 12 factor. build-packs. PCF account structure/funding. 
 * **Battles** - Marketing & Recruiting
       
 ## Release 1.0 Progress
