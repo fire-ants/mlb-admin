@@ -13,7 +13,7 @@ output:
     highlight: espresso
 ---
 ## The Fire Ants
-![The Fire Ants](images/FireAnts-KC-20171110b.jpg)
+![The Fire Ants](../images/FireAnts-KC-20171110b.jpg)
 
 ## Summary Notes
 * Bat to get iTunes Connect operational. 
@@ -52,7 +52,7 @@ output:
 * **Battles** - Marketing & Recruiting
       
 ## Release 1.0 Progress
-![](images/prog-20171116.png)
+![](../images/prog-20171116.png)
 
 * **Mobile Ant** - Apple Store submissions.
 * **Machine Learning Ant** 
