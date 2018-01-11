@@ -1,0 +1,63 @@
+---
+title: "Fire-Ants-Scrum"
+author: "Jason Battles"
+date: "January 11, 2018"
+output:
+  ioslides_presentation:
+    highlight: espresso
+    logo: images/FA-LogoPack/fireants-md-logo.jpg
+    widescreen: yes
+  beamer_presentation:
+    highlight: espresso
+  slidy_presentation:
+    highlight: espresso
+---
+## The Fire Ants
+![The Fire Ants](images/FireAnts-KC-20171110b.jpg)
+
+## Items in Flight
+* Bat / Sweers to upload PF.  Errors remain
+* Bee to update app flow diagram. 
+* Bat to onboard additional team members (Kenny, Kurt?)
+* Bat & team to schedule module review. 30JAN as template.
+* Sweers to create Fire Ants blog.  All team members contribute content
+* Nixon working to pull ML guidance from API
+* Bat has some movement on EMC Dojo
+
+## Administrivia
+* 2018 Scrum Schedule - invitations updated.
+* LinkedIn - https://www.linkedin.com/company/the-fire-ants/
+* Upcoming Fire Ants Workshops
+    - **06-08FEB** Des Moines.  Decision Point?
+    - **03-05APR** Chicago
+    - **JUN NYC?** - Pivotal office? Kenny to inquire.
+    
+## Targeted Applications
+    * **Pitcher's Friend 2.0** (PRIMARY)
+        - Update machine learning algorithm
+        - add ML to mobile app
+        - migrate to Pivotal Cloud Foundry or PKS
+    * F5 - Tornado Alley Data Analytics (SECONDARY)
+    
+## Around the Horn (a.k.a. Discoveries this week)
+
+* **Cohen** - 
+* **Sweezy** - 
+* **Nixon** - 
+* **Mordi** - 
+* **Goyette** - 
+* **Sabarese** - 
+* **Telep** - 
+* **Battles** - 
+      
+## Release 1.0 Progress
+![](images/prog-20171116.png)
+
+* **Mobile Ant** - Apple Store submission error
+* **Machine Learning Ant** 
+* **Analytics Ant**   
+* **Crawler Ant** 
+
+## Summary Notes
+                    
+                                
