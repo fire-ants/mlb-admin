@@ -28,7 +28,7 @@ output:
 * 2018 Scrum Schedule - invitations updated.
 * LinkedIn - https://www.linkedin.com/company/the-fire-ants/
 * Upcoming Fire Ants Workshops
-    - **06-08FEB** Des Moines.  Decision Point?
+    - **06-08FEB** Des Moines.  We will make this virtual or EMC Dojo.
     - **03-05APR** Chicago
     - **JUN NYC?** - Pivotal office? Kenny to inquire.
     
@@ -41,14 +41,14 @@ output:
     
 ## Around the Horn (a.k.a. Discoveries this week)
 
-* **Cohen** - 
-* **Sweezy** - 
-* **Nixon** - 
-* **Mordi** - 
-* **Goyette** - 
-* **Sabarese** - 
-* **Telep** - 
-* **Battles** - 
+* **Cohen** - absent
+* **Sweezy** - automated restores into Azure has limitations from virtual data domains. LiveOptics has some challenges with specific metrics. Be aware and double-check.
+* **Nixon** - upgrade / expansion should be co-term with parent platform.  
+* **Mordi** - NSX training.  2 licensing options.  (NSX-T, NSX-V).  PCF for Analytics.
+* **Goyette** - inference methods for ML.  Spectre/Meltdown - website ads are a common attack vector.  Performance impact (5%-30%) are mainly associated with OLTP and high-write environments, small block.
+* **Sabarese** - Digital Ocean is Isilon customer (4.5PB).  VSAN Training VXRail Test Drive.  VSAN is an object store, not a file system.
+* **Telep** - absent
+* **Battles** -  State of Nebraska (agile). Virtustream Xstream on-prem M&O stack. Kubernetes growing. VRS transition.
       
 ## Release 1.0 Progress
 ![](images/prog-20171116.png)
