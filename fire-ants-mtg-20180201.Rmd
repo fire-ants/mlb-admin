@@ -16,7 +16,7 @@ output:
 ## Items in Flight
 * Bat / Sweers to upload PF.  Errors remain
 * Bee updating App Flow diagram. 
-* Bat not advancing with recommendation to add Kurt.  
+* Bat not advancing with Kurt's nomination.  
 * Sweers working on Fire Ants blog.  All team members contribute content
 * Nix working to pull ML guidance from API
 * Bat has some movement on EMC Dojo
@@ -56,9 +56,10 @@ output:
 * 2018 Scrum Schedule - invitations updated.
 * LinkedIn - https://www.linkedin.com/company/the-fire-ants/
 * Upcoming Fire Ants Workshops
-    - **06-08FEB** - Virtual We will make this virtual or EMC Dojo.
-    - **06-08JUN?** - Chicago
-    - **JUN NYC?** - Pivotal office? Kenny to inquire.
+    - **06-08FEB** - Virtual Funshop
+    - **Spring** - TBD: EMC Dojo.
+    - **06-08JUN?** - Chicago 
+    - **SEP NYC?** - Pivotal office? Kenny to inquire.
     
 ## Around the Horn (a.k.a. Discoveries this week)
 
