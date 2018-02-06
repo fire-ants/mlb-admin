@@ -1,0 +1,50 @@
+---
+title: "Fire-Ants-FY19Q1Workshop"
+author: "Jason Battles"
+date: "February 6, 2018"
+output:
+  ioslides_presentation:
+    highlight: espresso
+    logo: images/FA-LogoPack/fireants-md-logo.jpg
+    widescreen: yes
+  beamer_presentation:
+    highlight: espresso
+  slidy_presentation:
+    highlight: espresso
+---
+## Funshop Objectives
+1. Prepare for EMC Dojo
+2. Add ML to mobile app
+3. Document issues in GitHub
+ 
+## Funshop Format - 06FEB
+1. Get organized.  Dust off the cobwebs (Bat)
+2. Application Flow (Mordi)
+3. Module Review: mlb-analytics-ant (Bat, Cohen)
+4. Module Review: mlb-machine-learning (Goyette, Mordi)
+5. Pair Programming via WebEx (if time remains)
+    - mlb-analytics-ant
+    - mlb-mobile
+    - mlb-machine-learning
+ 
+## Funshop Format - 07FEB
+1. Module Review: mlb-datafresh (Cohen, Bat)
+2. Module Review: mlb-mobile-app (Nixon, Sweers)
+3. Pair Programming via WebEx
+    - PKS platform config?
+    - mlb-mobile
+    - mlb-machine-learning
+
+## Funshop Format - 08FEB
+1. Module Review: mlb-api (Sweers)
+2. Module Review: PAS/PKS platform (Sabarese)
+3. Pair Programming via WebEx
+    - PAS/PKS platform config?
+    - mlb-mobile
+    - mlb-analytics-ant
+    
+ 
+
+## Summary Notes
+                    
+                                
