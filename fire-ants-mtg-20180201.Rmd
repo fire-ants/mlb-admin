@@ -46,9 +46,9 @@ output:
 
 ## Funshop Format - 08FEB
 1. Module Review: mlb-api (Sweers)
-2. Module Review: PKS platform (Sabarese)
+2. Module Review: PAS/PKS platform (Sabarese)
 3. Pair Programming via WebEx
-    - PKS platform config?
+    - PAS/PKS platform config?
     - mlb-mobile
     - mlb-analytics-ant
 
@@ -63,13 +63,13 @@ output:
     
 ## Around the Horn (a.k.a. Discoveries this week)
 
-* **Cohen** - 
-* **Sweezy** - 
-* **Nixon** -   
-* **Mordi** - 
-* **Goyette** - 
-* **Sabarese** - 
-* **Battles** -  
+* **Cohen** - Kenny is awesome. PKCS / PAS. Working on project to improve process flow and output from RVtools and VNX config summaries.  Panda libraries for Python.
+* **Sweezy** - closer inspection of mlb-api. playing with geospatial queries.
+* **Nixon** - Kenny is awesome. PKCS / PAS.
+* **Mordi** - K.I.S.S. with customers.
+* **Goyette** - formal Machine Learning.  Building knn models (Nearest Neighbor).
+* **Sabarese** - PKS / PCF / PAS
+* **Battles** - MLBAM blocking access to 2017. PKS/PAS.  
 
 ## Summary Notes
                     
