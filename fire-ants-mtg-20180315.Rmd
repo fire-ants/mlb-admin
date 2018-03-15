@@ -16,9 +16,10 @@ output:
 ![Application Flow](images/pf-appflow3.png)
 
 ## Items in Flight
+* Opportunity & Organization
 * Mordi speaking engagement.  Let's help her shine!
 * Bat / Sweers to upload PF.  Errors remain
-* Sweers working on Fire Ants blog.  All team members can contribute content
+* Bat will work on Fire Ants blog.  All team members can contribute content
 * Nix working to pull ML guidance from API
 * Bat making 1 final last ditch effort EMC Dojo
 
@@ -31,13 +32,13 @@ output:
     
 ## Around the Horn (a.k.a. Discoveries this week)
 
-* **Cohen** - 
-* **Sweezy** - 
-* **Nixon** - 
-* **Mordi** - 
-* **Goyette** - 
-* **Sabarese** - 
-* **Battles** -   
+* **Cohen** - absent
+* **Sweezy** - FRS
+* **Nixon** - absent
+* **Mordi** - customer visit
+* **Goyette** - shared thoughts on "bucketizing" outcomes and using gradient scoring methods.
+* **Sabarese** - had to go listen-only at the end
+* **Battles** -  Dojo Dojo Dojo
 
 ## Summary Notes
                     
