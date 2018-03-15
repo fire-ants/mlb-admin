@@ -1,0 +1,44 @@
+---
+title: "Fire-Ants-Scrum"
+author: "Jason Battles"
+date: "March 15, 2018"
+output:
+  ioslides_presentation:
+    highlight: espresso
+    logo: images/FA-LogoPack/fireants-md-logo.jpg
+    widescreen: yes
+  beamer_presentation:
+    highlight: espresso
+  slidy_presentation:
+    highlight: espresso
+---
+## Pitchers Friends - Microservice Overview
+![Application Flow](images/pf-appflow3.png)
+
+## Items in Flight
+* Mordi speaking engagement.  Let's help her shine!
+* Bat / Sweers to upload PF.  Errors remain
+* Sweers working on Fire Ants blog.  All team members can contribute content
+* Nix working to pull ML guidance from API
+* Bat making 1 final last ditch effort EMC Dojo
+
+## Administrivia
+* Upcoming Fire Ants Workshops & Workshops (To Be Discussed)
+    - **??** - TBD: EMC Dojo.
+    - **12-15JUN** - DockerCon (SFO)
+    - **07-09AUG?** - Chicago 
+    - **06-08NOV** - NYC.  Pivotal office? Kenny to inquire.
+    
+## Around the Horn (a.k.a. Discoveries this week)
+
+* **Cohen** - 
+* **Sweezy** - 
+* **Nixon** - 
+* **Mordi** - 
+* **Goyette** - 
+* **Sabarese** - 
+* **Battles** -   
+
+## Summary Notes
+                    
+                                
