@@ -23,9 +23,9 @@ output:
 
 ## EMC Dojo
 * Complete bust in regards to in-person dojo experience.
-* PCF101/201 Training (which days 23-27APR?)
-    - high-level topics
-    - specific questions
+* PCF101/201 Training (which days 23-27APR?)  TUE24 better?
+    - high-level topics - tailored to our codebase
+    - specific questions - different code types (R,Python, Java Spring)
 * Pivotal Acceleration Lab. https://pivotal.io/platform-acceleration-lab?confirmation
 
 ## Fire Ants Site / Blog
@@ -45,13 +45,13 @@ output:
     
 ## Around the Horn (a.k.a. Discoveries this week)
 
-* **Cohen** - 
-* **Sweezy** - 
+* **Cohen** - use real player pictures. customers using FA sticker! labs, data, cf are the 3 arms of Pivotal. MPP database (Greenplum) for structured data.  Re-focusing on storage.  Working on developing storage proposal tool.  Installed Git on internal Linux server.
+* **Sweezy** - testing Redis (in memory db) caching function within the dynamic mlb-player-id.  improves micro-service performance and data "stewardship". 
 * **Nixon** - cutomer tech profile mtg.
-* **Mordi** - 
-* **Goyette** - 
-* **Sabarese** - 
-* **Battles** -  
+* **Mordi** - presented Fire Ants to Shullaw, FCTOs, and SE peers.  Collected good feedback. 
+* **Goyette** - Android user. polite poke on Android bug. Strong desire to add ML guidance (PF2.0). can we use actual names for p_type instead of abbreviation?  Navigators Analytics Team. Help ASE organization with data-driven metrics. 
+* **Sabarese** - learning ASE role and product positioning. Hosting Cloud Control Point (CCP) Champions call.
+* **Battles** - Wix web editing!  "webmaster"
 
 ## Summary Notes
                     
