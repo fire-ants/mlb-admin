@@ -1,7 +1,7 @@
 ---
 title: "Fire-Ants-Scrum"
 author: "Jason Battles"
-date: "March 15, 2018"
+date: "April 12, 2018"
 output:
   ioslides_presentation:
     highlight: espresso
@@ -16,29 +16,42 @@ output:
 ![Application Flow](images/pf-appflow3.png)
 
 ## Items in Flight
-* Opportunity & Organization
-* Mordi speaking engagement.  Let's help her shine!
-* Bat / Sweers to upload PF.  Errors remain
-* Bat will work on Fire Ants blog.  All team members can contribute content
-* Nix working to pull ML guidance from API
-* Bat making 1 final last ditch effort EMC Dojo
+* Bat made 1 final last ditch effort **EMC Dojo** 
+* Bat deploying **Fire Ants Site/Blog**
+* [Pitchers Friend now in the Apple Store!](  https://itunes.apple.com/us/app/pitchers-friend/id1309804498?mt=8)
+* Mordi speaking engagement. Updates?
+
+## EMC Dojo
+* Complete bust in regards to in-person dojo experience.
+* PCF101/201 Training (which days 23-27APR?)
+    - high-level topics
+    - specific questions
+* Pivotal Acceleration Lab. https://pivotal.io/platform-acceleration-lab?confirmation
+
+## Fire Ants Site / Blog
+*  [Fire Ants site / blog](  https://jasonrbattles.wixsite.com/fireants)  https://jasonrbattles.wixsite.com/fireants
+* Your action needed
+     - Review site.  Provide feedback
+     - Sign-Up for blog
+     - Collaborators?
+     - Need marketing banner for Cost-To-Protect
 
 ## Administrivia
 * Upcoming Fire Ants Workshops & Workshops (To Be Discussed)
-    - **??** - TBD: EMC Dojo.
+    - **??TBD** - Pivotal Acceleration Lab
     - **12-15JUN** - DockerCon (SFO)
-    - **07-09AUG?** - Chicago 
+    - **07-09AUG** - Chicago 
     - **06-08NOV** - NYC.  Pivotal office? Kenny to inquire.
     
 ## Around the Horn (a.k.a. Discoveries this week)
 
-* **Cohen** - absent
-* **Sweezy** - FRS
-* **Nixon** - absent
-* **Mordi** - customer visit
-* **Goyette** - shared thoughts on "bucketizing" outcomes and using gradient scoring methods.
-* **Sabarese** - had to go listen-only at the end
-* **Battles** -  Dojo Dojo Dojo
+* **Cohen** - 
+* **Sweezy** - 
+* **Nixon** - cutomer tech profile mtg.
+* **Mordi** - 
+* **Goyette** - 
+* **Sabarese** - 
+* **Battles** -  
 
 ## Summary Notes
                     
