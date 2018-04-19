@@ -1,0 +1,54 @@
+---
+title: "Fire-Ants-Scrum"
+author: "Jason Battles"
+date: "April 19, 2018"
+output:
+  ioslides_presentation:
+    highlight: espresso
+    logo: images/FA-LogoPack/fireants-md-logo.jpg
+    widescreen: yes
+  beamer_presentation:
+    highlight: espresso
+  slidy_presentation:
+    highlight: espresso
+---
+
+## Items in Flight
+* Bat making **Pivotal Labs Training** pitch to Chad Sakac. 
+* Bat deployed **Fire Ants Site/Blog**
+* [Pitchers Friend now in the Apple Store!](  https://itunes.apple.com/us/app/pitchers-friend/id1309804498?mt=8)
+* Bee and Bat meeting with Shullaw **25APR**.
+
+
+## Pivotal Labs Training
+* EMC Dojo providing **PCF101/201 Training** on **24APR**.
+* Pivotal Acceleration Lab. https://pivotal.io/platform-acceleration-lab?confirmation
+
+## Fire Ants Site / Blog
+*  [Fire Ants site / blog](https://www.fireants.io) www.fireants.io 
+* Your action needed
+     - Review site.  Provide feedback
+     - Sign-Up for blog
+     - Collaborators?
+     - Need marketing banner for Cost-To-Protect
+
+## Administrivia
+* Upcoming Fire Ants Workshops & Workshops (To Be Discussed)
+    - **??TBD** - Pivotal Acceleration Lab
+    - **12-15JUN** - DockerCon (SFO)
+    - **07-09AUG** - Chicago 
+    - **06-08NOV** - NYC.  Pivotal office? Kenny to inquire.
+    
+## Around the Horn (a.k.a. Discoveries this week)
+
+* **Cohen** - 
+* **Sweezy** -  
+* **Nixon** - 
+* **Mordi** - 
+* **Goyette** -  
+* **Sabarese** - 
+* **Battles** - Stride.
+
+## Summary Notes
+                    
+                                
