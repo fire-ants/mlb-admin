@@ -14,9 +14,11 @@ output:
 ---
 
 ## Items in Flight
+* Sweezy hosting **Redis demo** on **08MAY**
+* Goyette scheduling time with Columbia to explore **Data Science Institute (DSI) sponsorship**.
 * Bat making **Pivotal Labs Training** pitch to Chad Sakac. 
 * Bat deployed **Fire Ants Site/Blog**
-* [Pitchers Friend now in the Apple Store!](  https://itunes.apple.com/us/app/pitchers-friend/id1309804498?mt=8)
+* [Pitchers Friend now in the Apple Store!](https://itunes.apple.com/us/app/pitchers-friend/id1309804498?mt=8)
 * Bee and Bat meeting with Shullaw **25APR**.
 
 
@@ -41,13 +43,17 @@ output:
     
 ## Around the Horn (a.k.a. Discoveries this week)
 
-* **Cohen** - 
-* **Sweezy** -  
+* **Mordi** - Nuts! SmartHome project with Chicago Housing Authority.  CHA working with Excelon PowerCo to roll out 300 units focusing on helping the elderly.  Bee angling to be part of this project. 
+* **Goyette** -  VXRack SDDC research.  VMware Cloud Foundation (VCF).  VCF = ESX + NSX + VSAN + SDDC Manager.  VMware cloud on AWS. (VMC)    
+* **Sabarese** - NYC Dept of Transportion tracking cab locations to optimize taxi routes / placements.  Kafka (streaming data ingest engine), Spark (processing datasets in memory.  5 stand-alone modes without Hadoop!!) running on workstations.  Pilot - 6 node VXRail config presented with Isilon (NFS).    
+* **Battles** - Stride / Slack / MsTeams.  Git-Recovering specific file. 
+```
+git log --oneline
+git checkout 0f3bc9d fire-ants-mtg-20180315.Rmd
+```
 * **Nixon** - 
-* **Mordi** - 
-* **Goyette** -  
-* **Sabarese** - 
-* **Battles** - Stride.
+* **Cohen** - absent
+* **Sweezy** - absent 
 
 ## Summary Notes
                     
