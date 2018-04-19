@@ -1,7 +1,7 @@
 ---
 title: "Fire-Ants-Scrum"
 author: "Jason Battles"
-date: "April 12, 2018"
+date: "March 15, 2018"
 output:
   ioslides_presentation:
     highlight: espresso
@@ -16,42 +16,29 @@ output:
 ![Application Flow](images/pf-appflow3.png)
 
 ## Items in Flight
-* Bat made 1 final last ditch effort **EMC Dojo** 
-* Bat deploying **Fire Ants Site/Blog**
-* [Pitchers Friend now in the Apple Store!](  https://itunes.apple.com/us/app/pitchers-friend/id1309804498?mt=8)
-* Mordi speaking engagement. Updates?
-
-## EMC Dojo
-* Complete bust in regards to in-person dojo experience.
-* PCF101/201 Training (which days 23-27APR?)  TUE24 better?
-    - high-level topics - tailored to our codebase
-    - specific questions - different code types (R,Python, Java Spring)
-* Pivotal Acceleration Lab. https://pivotal.io/platform-acceleration-lab?confirmation
-
-## Fire Ants Site / Blog
-*  [Fire Ants site / blog](  https://jasonrbattles.wixsite.com/fireants)  https://jasonrbattles.wixsite.com/fireants
-* Your action needed
-     - Review site.  Provide feedback
-     - Sign-Up for blog
-     - Collaborators?
-     - Need marketing banner for Cost-To-Protect
+* Opportunity & Organization
+* Mordi speaking engagement.  Let's help her shine!
+* Bat / Sweers to upload PF.  Errors remain
+* Bat will work on Fire Ants blog.  All team members can contribute content
+* Nix working to pull ML guidance from API
+* Bat making 1 final last ditch effort EMC Dojo
 
 ## Administrivia
 * Upcoming Fire Ants Workshops & Workshops (To Be Discussed)
-    - **??TBD** - Pivotal Acceleration Lab
+    - **??** - TBD: EMC Dojo.
     - **12-15JUN** - DockerCon (SFO)
-    - **07-09AUG** - Chicago 
+    - **07-09AUG?** - Chicago 
     - **06-08NOV** - NYC.  Pivotal office? Kenny to inquire.
     
 ## Around the Horn (a.k.a. Discoveries this week)
 
-* **Cohen** - use real player pictures. customers using FA sticker! labs, data, cf are the 3 arms of Pivotal. MPP database (Greenplum) for structured data.  Re-focusing on storage.  Working on developing storage proposal tool.  Installed Git on internal Linux server.
-* **Sweezy** - testing Redis (in memory db) caching function within the dynamic mlb-player-id.  improves micro-service performance and data "stewardship". 
-* **Nixon** - cutomer tech profile mtg.
-* **Mordi** - presented Fire Ants to Shullaw, FCTOs, and SE peers.  Collected good feedback. 
-* **Goyette** - Android user. polite poke on Android bug. Strong desire to add ML guidance (PF2.0). can we use actual names for p_type instead of abbreviation?  Navigators Analytics Team. Help ASE organization with data-driven metrics. 
-* **Sabarese** - learning ASE role and product positioning. Hosting Cloud Control Point (CCP) Champions call.
-* **Battles** - Wix web editing!  "webmaster"
+* **Cohen** - absent
+* **Sweezy** - FRS
+* **Nixon** - absent
+* **Mordi** - customer visit
+* **Goyette** - shared thoughts on "bucketizing" outcomes and using gradient scoring methods.
+* **Sabarese** - had to go listen-only at the end
+* **Battles** -  Dojo Dojo Dojo
 
 ## Summary Notes
                     
