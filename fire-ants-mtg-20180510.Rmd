@@ -1,0 +1,48 @@
+---
+title: "Fire-Ants-Scrum"
+author: "Jason Battles"
+date: "May 10, 2018"
+output:
+  ioslides_presentation:
+    highlight: espresso
+    logo: images/FA-LogoPack/fireants-md-logo.jpg
+    widescreen: yes
+  beamer_presentation:
+    highlight: espresso
+  slidy_presentation:
+    highlight: espresso
+---
+
+## Items in Flight
+* Sweezy conducted Redis review and discussion.
+* Bat making **Pivotal Labs Training** pitch to Chad Sakac. 
+* Bat deployed **Fire Ants Site/Blog**
+* [Pitchers Friend now in the Apple Store!](https://itunes.apple.com/us/app/pitchers-friend/id1309804498?mt=8)
+
+## Fire Ants Site / Blog
+*  [Fire Ants site / blog](https://www.fireants.io) www.fireants.io 
+* Your action needed
+     - Review site.  Provide feedback
+     - Sign-Up for blog
+     - Collaborators?
+     - Need marketing banner for Cost-To-Protect
+
+## Administrivia
+* Upcoming Fire Ants Workshops & Workshops (To Be Discussed)
+    - **12-15JUN** - DockerCon (SFO)
+    - **07-09AUG** - Chicago 
+    - **06-08NOV** - NYC.  Pivotal office? Kenny to inquire.
+    
+## Around the Horn (a.k.a. Discoveries this week)
+
+* **Mordi** -
+* **Goyette** -  
+* **Sabarese** -     
+* **Battles** - AWS Lambda Functions
+* **Nixon** - 
+* **Cohen** - 
+* **Sweezy** -  
+
+## Summary Notes
+                    
+                                
