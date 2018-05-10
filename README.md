@@ -13,4 +13,4 @@ The **MLB Pitchers Friend** uses data analytics techniques to visualize hitting 
 * [**Database Ant**](https://github.com/fire-ants/mlb-database-ant) - stores all raw data provided by the Crawler Ant.  Currently hosted on MongoDB.
 * [**Mobile App**](https://github.com/fire-ants/mlb-mobile-app) - presents visualizations and per-pitch analysis to the user.  Written in React Native to allow for Apple and Android compatibility.
 
-![](https://github.com/fire-ants/mlb-admin/blob/master/admin/mlb-pf-appflow-lg.png)
+![](https://github.com/fire-ants/mlb-admin/blob/master/images/pf-appflow4.png)
