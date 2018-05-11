@@ -25,7 +25,7 @@ output:
      - Review site.  Provide feedback
      - Sign-Up for blog
      - Collaborators?
-     - Need marketing banner for Cost-To-Protect
+     - Completed banner for Cost-To-Protect
 
 ## Administrivia
 * Upcoming Fire Ants Workshops & Workshops (To Be Discussed)
@@ -35,14 +35,15 @@ output:
     
 ## Around the Horn (a.k.a. Discoveries this week)
 
-* **Mordi** -
-* **Goyette** -  
-* **Sabarese** -     
-* **Battles** - AWS Lambda Functions
-* **Nixon** - 
-* **Cohen** - 
+* **Mordi** - 
+* **Goyette** - Dell Tech World. MIT professor discussion regarding mgmt styles.  HiPPO - Highest Paid Person's Opinion.  Live demo of VMW Athena.  Blockchain PaaS.  Factoring apps into containers.
+* **Sabarese** - continued on NYC project with VXRail.
+* **Battles** - AWS Lambda Functions.  pitchRX libary updates.
+* **Nixon** - customer issue call
+* **Cohen** - absent
 * **Sweezy** -  
 
 ## Summary Notes
-                    
+                  
+* **Sweezy**  - putting together a quick Getting Started Guide in the README.          
                                 
