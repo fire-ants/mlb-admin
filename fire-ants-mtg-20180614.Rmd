@@ -14,22 +14,24 @@ output:
 ---
 
 ## Items in Flight
-* Colin preparing **Analytics & Machine Learning Primer**
+* Colin preparing **Statistical Analysis & Machine Learning Primer**
 * Bat making **Pivotal Labs Training** pitch to David Roberts, DellEMC Synergy Team
 * AUG Workshop in Chicago - **CANCELLED** due to TRS. 
 
 ## **Analytics & Machine Learning Primer**
 * Colin previews topics.
+* Session 1 - 12JUL
+* Session 2 - 19JUL
     
 ## Around the Horn (a.k.a. Discoveries this week)
 
-* **Mordi** - 
-* **Goyette** - 
-* **Sabarese** - 
+* **Mordi** - Pivotal / VMW PKS Roadshow. K8S.  Requested training on how to "frame" a cloud conversation.  https://democenter.dell.com/
+* **Goyette** - working on primers
+* **Sabarese** - absent 
 * **Battles** - EBC Platinum Training.  PKS Starter Kit.
-* **Nixon** - 
-* **Cohen** - 
-* **Sweezy** -  
+* **Nixon** - Next Gen Dell blade servers & chassis releasing in AUG, 2018.  MX7000
+* **Cohen** - absent
+* **Sweezy** - absent
 
 ## Summary Notes
                   
