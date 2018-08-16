@@ -62,6 +62,12 @@ We run backlogs, sprints, scrums, and retrospectives…but our pipeline needs po
     - Implement candidate microservices on PCF  
     - **BHAG** - Deploy PF2.0 to Apple Store
 
+## Some Additional Nuggets
+* Fire Ants Website – http://www.fireants.io            
+* Fire Ants GitHub – https://github.com/fire-ants
+* Fire Ants Docker Cloud - https://cloud.docker.com/app/fireants/dashboard/onboarding/cloud-registry
+* Fire Ants & Pitcher’s Friend Overview - https://my.syncplicity.com/share/e1dflecfjvimezf/FireAnts-Overview-20180412  
+
 ## Summary Notes
                     
                                 
