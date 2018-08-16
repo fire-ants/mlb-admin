@@ -22,6 +22,10 @@ output:
     - WED 0800 - 1700
 * Pivotal Labs Scoping Meeting **tomorrow** 18AUG2018
     
+## **Many Hands = Light Work**
+* Update your microservice issues in GitHub
+* Schedule your travel to CHI
+* Attend Ramp Scrums (9)  
 
 ## **Analytics & Machine Learning Primer**
 * Colin previews topics.
