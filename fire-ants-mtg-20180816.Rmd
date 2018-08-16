@@ -1,0 +1,44 @@
+---
+title: "Fire-Ants-Scrum"
+author: "Jason Battles"
+date: "August 16, 2018"
+output:
+  ioslides_presentation:
+    highlight: espresso
+    logo: images/FA-LogoPack/fireants-md-logo.jpg
+    widescreen: yes
+  beamer_presentation:
+    highlight: espresso
+  slidy_presentation:
+    highlight: espresso
+---
+
+## Items in Flight
+* Colin preparing **Statistical Analysis & Machine Learning Primer** Round #2 (HOLD)
+* **Pivotal Labs Engagement** approved!! 
+* 15-17OCT Workshop in Chicago
+    - MON 0900 - 1700
+    - TUE 0900 - 1700
+    - WED 0800 - 1700
+* Pivotal Labs Scoping Meeting **tomorrow** 18AUG2018
+    
+
+## **Analytics & Machine Learning Primer**
+* Colin previews topics.
+* Session 1 - 12JUL
+* Session 2 - TBD.  HOLD.
+    
+## Around the Horn (a.k.a. Discoveries this week)
+
+* **Mordi** - 
+* **Goyette** - 
+* **Sabarese** - 
+* **Battles** - 
+* **Nixon** - 
+* **Cohen** - 
+* **Sweezy** -
+
+## Summary Notes
+                  
+*    
+                                
