@@ -1,0 +1,67 @@
+---
+title: "Fire-Ants-FY19Q3Workshop"
+author: "Jason Battles"
+date: "October 15-17, 2018"
+output:
+  ioslides_presentation:
+    highlight: espresso
+    logo: images/FA-LogoPack/fireants-md-logo.jpg
+    widescreen: yes
+  beamer_presentation:
+    highlight: espresso
+  slidy_presentation:
+    highlight: espresso
+---
+## Pitchers Friend 2.0 Goal 1
+**Technical - Deploy PF2.0 using PAS, PKS, and / or PFS**
+ 
+We currently use GitHub, Docker, Digital Ocean, mLab, redis, SQLite, and an internal free version of PWS for our development platform.
+
+We are polyglot in our our backgrounds and preferred languages.  We currently develop in React Native, R, python, node, and Java Spring.  
+
+Our cloud-native understanding is pretty good considering most of us do not have a formal agile development background – and feel we are only scratching the surface of what is possible.
+  
+## Pitchers Friend 2.0 Goal 2
+**Aspirational – Tell the story of our own “transformation”**
+ 
+Evangelize!!  We would love to be able to share the transformation journey via our site (http://www.fireants.io) as well as our transformation talk-tracks.  We already tell the story to our customers, but the 2.0 version would be even better. 
+
+*“It took us 24 months to get going with DIY, but only 2 weeks with Pivotal!”*  
+ 
+## Pitchers Friend 2.0 Goal 3
+**Organizational -  Observe and learn Extreme Agile Programming**
+ 
+We run backlogs, sprints, scrums, and retrospectives…but our pipeline needs polishing.  A little mentorship and guidance  would go a long way.
+
+## Pitchers Friends - Microservice Overview
+![Application Flow](images/pf-appflow4.png)
+
+## October Workshop Development Goals
+1. Evaluate core micro-services for PAS,PKS, or PFS onboarding  
+    - mlb-datafresh
+    - mlb-analytics-ant  
+    - mlb-machine-learning
+    - mlb-player-api 
+2. Evaluate data services for proper placement (CSV, SQLite, mLab mongo)
+3. Begin micro-service re-platform efforts as decided. 
+4. Add Machine Learning guidance to mobile app
+ 
+## Funshop Format
+**MON, 15OCT 0900 - 1700**  
+    - Review issues in GitHub repo.  
+    - Dust-off the cobwebs and get to work.  
+    - (1200) Pivotal arrives  
+    - Begin evaluating micro-services with Pivotal Platform Architects  
+
+**TUE, 16OCT 0900 - 1700**  
+    - Continue evaluating data stores with Pivotal Platform Architects  
+    - Update mobile app to accomodate ML guidance.   
+    - **BHAG** - Update mlb-machine-learning with latest models    
+    
+**WED, 17OCT 0800 - 1700**  
+    - Implement candidate microservices on PCF  
+    - **BHAG** - Deploy PF2.0 to Apple Store
+
+## Summary Notes
+                    
+                                
