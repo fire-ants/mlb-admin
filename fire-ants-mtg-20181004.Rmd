@@ -14,9 +14,10 @@ output:
 ---
 
 ## Items in Flight
-* **Pivotal Labs Engagement** postponed
-    - Option 1 06-08NOV
-    - Option 2 13-15NOV
+* **Pivotal Labs Engagement** - POSTPONED!!!
+* Now attempting to target new dates.  pls confirm.
+    - Option 1 06-08NOV 
+    - Option 2 12-14NOV (better for Bee in CHI, MON-WED instead)
 * Deploying R on PAS
     
 ## **Many Hands = Light Work**
@@ -26,12 +27,12 @@ output:
 ## Around the Horn (a.k.a. Discoveries this week)
 
 * **Cohen** - learning R on PAS
-* **Mordi** - 
-* **Goyette** - 
-* **Sabarese** - 
-* **Battles** - PitchRx 1.8.4, package "vendoring", interactive R in Containers
-* **Nixon** - 
-* **Sweezy** -
+* **Mordi** - Grace Hopper Conference. developing lite applications to meet lower hw specs in emerging markets. data anonyminity. 
+* **Goyette** - SitRep report for Navigators. Investigating new models
+* **Sabarese** - underscored Cloudera and Hortonworks merger.  keras.
+* **Battles** - concourse tutorial, PitchRx 1.8.4, package "vendoring", interactive R in Containers, DataRobot
+* **Nixon** - working with new mobile dev packages
+* **Sweezy** - fighting flu-bug.  consolidating API.
 
 ## Summary Notes
                   
