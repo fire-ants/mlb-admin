@@ -1,0 +1,40 @@
+---
+title: "Fire-Ants-Scrum"
+author: "Jason Battles"
+date: "October 11, 2018"
+output:
+  ioslides_presentation:
+    highlight: espresso
+    logo: images/FA-LogoPack/fireants-md-logo.jpg
+    widescreen: yes
+  beamer_presentation:
+    highlight: espresso
+  slidy_presentation:
+    highlight: espresso
+---
+
+## Items in Flight
+* **Pivotal Labs Engagement** - POSTPONED!!!
+* Now attempting to target new dates.  pls confirm.
+    - Option 1 06-08NOV 
+    - Option 2 12-14NOV (CHI or Portland)
+* Deploying R on PAS
+    
+## **Many Hands = Light Work**
+* Update your microservice issues in GitHub
+* Complete your preparatory pair programming
+    
+## Around the Horn (a.k.a. Discoveries this week)
+
+* **Cohen** - 
+* **Mordi** - 
+* **Goyette** - 
+* **Sabarese** - 
+* **Battles** - 
+* **Nixon** - 
+* **Sweezy** - 
+
+## Summary Notes
+                  
+*    
+                                
