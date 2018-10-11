@@ -14,25 +14,24 @@ output:
 ---
 
 ## Items in Flight
-* **Pivotal Labs Engagement** - POSTPONED!!!
-* Now attempting to target new dates.  pls confirm.
-    - Option 1 06-08NOV 
-    - Option 2 12-14NOV (CHI or Portland)
-* Deploying R on PAS
+* **Pivotal Labs Engagement** - DATES CONFIRMED!!!
+* Date: 12-14NOV
+* Location: CHI or Portland
     
 ## **Many Hands = Light Work**
 * Update your microservice issues in GitHub
 * Complete your preparatory pair programming
+* Bat to schedule Preparatory Scrums 
     
 ## Around the Horn (a.k.a. Discoveries this week)
 
-* **Cohen** - 
-* **Mordi** - 
-* **Goyette** - 
-* **Sabarese** - 
-* **Battles** - 
-* **Nixon** - 
-* **Sweezy** - 
+* **Cohen** - deploying SQL micros-service within PWS and connect to it.  env vars.
+* **Mordi** - try harder next week
+* **Goyette** - improve neural networks that extrapolates CO2 measurements and visualizes findings
+* **Sabarese** - absent 
+* **Battles** - EKS vs PKS cost comparisons. reverse mergers and cash on hand
+* **Nixon** - absent
+* **Sweezy** - absent
 
 ## Summary Notes
                   
