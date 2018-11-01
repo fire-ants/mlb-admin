@@ -1,0 +1,77 @@
+---
+title: "Fire-Ants-Scrum"
+author: "Jason Battles"
+date: "November 1, 2018"
+output:
+  ioslides_presentation:
+    highlight: espresso
+    logo: images/FA-LogoPack/fireants-md-logo.jpg
+    widescreen: yes
+  beamer_presentation:
+    highlight: espresso
+  slidy_presentation:
+    highlight: espresso
+---
+
+## Items in Flight
+* **Pivotal Labs Engagement**
+* Introduction - **Cameron Stewart**
+* Date: 12-14NOV
+* Location: 353 N Clark St #1900, Chicago, IL 60654 (https://goo.gl/maps/GVQvwDyPeX42)
+* Logistics
+    - Meeting Room
+    - Travel Arrangements
+    - Concourse
+    - PAS
+
+## October Workshop Development Goals
+1. Evaluate core micro-services for PAS,PKS, or PFS onboarding  
+    - mlb-datafresh
+    - mlb-analytics-ant  
+    - mlb-machine-learning
+    - mlb-player-api 
+2. Evaluate data services for proper placement (CSV, SQLite, mLab mongo)
+3. Begin micro-service re-platform efforts as decided. 
+4. Add Machine Learning guidance to mobile app
+ 
+## Funshop Format
+**MON, 12NOV 0900 - 1700**  
+    - Review issues in GitHub repo.  
+    - Dust-off the cobwebs and get to work.  
+    - Begin evaluating micro-services with Pivotal Platform Architects  
+
+**TUE, 13NOV 0900 - 1700**  
+    - Continue evaluating data stores with Pivotal Platform Architects  
+    - Update mobile app to accomodate ML guidance.   
+    - **BHAG** - Update mlb-machine-learning with latest models    
+    
+**WED, 14NOV 0800 - 1700**  
+    - Implement candidate microservices on PCF  
+    - **BHAG** - Deploy PF2.0 to Apple Store
+
+## Some Additional Nuggets
+* Fire Ants Website – http://www.fireants.io            
+* Fire Ants GitHub – https://github.com/fire-ants
+* Fire Ants Docker Cloud - https://cloud.docker.com/app/fireants/dashboard/onboarding/cloud-registry
+* Fire Ants & Pitcher’s Friend Overview - https://my.syncplicity.com/share/e1dflecfjvimezf/FireAnts-Overview-20180412  
+
+## **Many Hands = Light Work**
+* Update your microservice issues in GitHub
+* Complete your preparatory pair programming
+    
+## Around the Horn (a.k.a. Discoveries this week)
+
+* **Cohen** - 
+* **Mordi** - 
+* **Goyette** - 
+* **Sabarese** - 
+* **Battles** - completed Concourse Tutorial.
+* **Nixon** - 
+* **Sweezy** - 
+* **Vorhees** - 
+* **Stewart** - 
+
+## Summary Notes
+                  
+
+                                
