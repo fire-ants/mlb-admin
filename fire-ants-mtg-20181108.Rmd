@@ -1,0 +1,90 @@
+---
+title: "Fire-Ants-Scrum"
+author: "Jason Battles"
+date: "November 8, 2018"
+output:
+  ioslides_presentation:
+    highlight: espresso
+    logo: images/FA-LogoPack/fireants-md-logo.jpg
+    widescreen: yes
+  beamer_presentation:
+    highlight: espresso
+  slidy_presentation:
+    highlight: espresso
+---
+
+## Items in Flight
+* **Pivotal Labs Engagement**
+* Introduction - **Cameron Stewart**
+* Date: 12-14NOV
+* Location: 353 N Clark St #1900, Chicago, IL 60654 (https://goo.gl/maps/GVQvwDyPeX42)
+* Logistics
+    - Meeting Room
+    - Travel Arrangements
+    - Concourse
+    - PAS
+
+## November Workshop Development Goals
+1.  Implement Concourse Pipeline
+2. Re-Platform micro-services on **PAS**
+    - **mlb-datafresh**
+    - mlb-analytics-ant  
+    - mlb-machine-learning
+    - mlb-player-api 
+3. Evaluate data services for proper placement (CSV, SQLite, mLab mongo)
+4. Begin micro-service re-platform efforts as decided. 
+5. Add Machine Learning guidance to mobile app.
+ 
+## Funshop Format - MON 
+**MON, 12NOV 0900 - 1700**
+
+* Review issues in GitHub repo.  
+* Dust-off the cobwebs and get to work.  
+* Begin implementing Concourse Pipeline (3 Pivots)
+
+    1. mlb-datafresh (Cohen,Sabarese,Stewart?) 
+    2. mlb-machine-learning (Goyette, Mordi, Vorhees?)
+    3. mlb-player-api (Sweers,Nixon,PA#3?)
+
+## Funshop Format - TUE 
+**TUE, 13NOV 0900 - 1700**
+
+* Continue implementing Concourse Pipeline (3 Pivots)
+* Re-platform micro-services on PAS
+* Re-platform data stores
+* Update mobile app to accomodate ML guidance.   
+
+## Funshop Format - WED 
+**WED, 14NOV 0800 - 1700**  
+
+* Complete re-platforming micro-services
+* **BHAG** - Deploy PF2.0 to Apple Store
+
+## Workshop Preparationg
+* Update your microservice issues in GitHub
+* Complete your preparatory pair programming
+* Need help on vendoring PitchRX 1.8.4
+* Mandatory Pre-Learning - Stark & Wayne Concourse Tutorial (https://concoursetutorial.com/)
+
+## Some Additional Nuggets
+* Fire Ants Website – http://www.fireants.io            
+* Fire Ants GitHub – https://github.com/fire-ants
+* Fire Ants Docker Cloud - https://cloud.docker.com/app/fireants/dashboard/onboarding/cloud-registry
+* Fire Ants & Pitcher’s Friend Overview - https://my.syncplicity.com/share/e1dflecfjvimezf/FireAnts-Overview-20180412  
+
+    
+## Around the Horn (a.k.a. Discoveries this week)
+
+* **Cohen** - 
+* **Mordi** - absent
+* **Goyette** -   
+* **Sabarese** - absent. 
+* **Battles** - 
+* **Nixon** - absent
+* **Sweezy** - 
+* **Vorhees** - absent
+* **Stewart** - 
+
+                  
+
+                                
