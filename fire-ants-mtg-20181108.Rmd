@@ -15,7 +15,6 @@ output:
 
 ## Items in Flight
 * **Pivotal Labs Engagement**
-* Introduction - **Cameron Stewart**
 * Date: 12-14NOV
 * Location: 353 N Clark St #1900, Chicago, IL 60654 (https://goo.gl/maps/GVQvwDyPeX42)
 * Logistics
@@ -25,26 +24,26 @@ output:
     - PAS
 
 ## November Workshop Development Goals
-1.  Implement Concourse Pipeline
+1. Implement Concourse Pipeline
 2. Re-Platform micro-services on **PAS**
     - **mlb-datafresh**
     - mlb-analytics-ant  
     - mlb-machine-learning
-    - mlb-player-api 
+    - mlb-api 
 3. Evaluate data services for proper placement (CSV, SQLite, mLab mongo)
-4. Begin micro-service re-platform efforts as decided. 
-5. Add Machine Learning guidance to mobile app.
+4. Add Machine Learning guidance to mobile app.
  
 ## Funshop Format - MON 
 **MON, 12NOV 0900 - 1700**
 
+* Review "joined" data frame.
 * Review issues in GitHub repo.  
 * Dust-off the cobwebs and get to work.  
 * Begin implementing Concourse Pipeline (3 Pivots)
 
-    1. mlb-datafresh (Cohen,Sabarese,Stewart?) 
-    2. mlb-machine-learning (Goyette, Mordi, Vorhees?)
-    3. mlb-player-api (Sweers,Nixon,PA#3?)
+    1. mlb-datafresh (Cohen,Sabarese,Battles,Stewart) 
+    2. mlb-machine-learning (Goyette, Mordi, Vorhees)
+    3. mlb-api (Sweers,Nixon,Kunjummen)
 
 ## Funshop Format - TUE 
 **TUE, 13NOV 0900 - 1700**
@@ -60,7 +59,7 @@ output:
 * Complete re-platforming micro-services
 * **BHAG** - Deploy PF2.0 to Apple Store
 
-## Workshop Preparationg
+## Workshop Preparation
 * Update your microservice issues in GitHub
 * Complete your preparatory pair programming
 * Need help on vendoring PitchRX 1.8.4
@@ -75,15 +74,15 @@ output:
     
 ## Around the Horn (a.k.a. Discoveries this week)
 
-* **Cohen** - 
-* **Mordi** - absent
-* **Goyette** -   
-* **Sabarese** - absent. 
-* **Battles** - 
-* **Nixon** - absent
-* **Sweezy** - 
+* **Cohen** - R code on PAS with custom buildpacks. cf stacks
+* **Mordi** - cloud-native framework overview from Pivotal. Splunk with IOT (Big Data Beard) and adaptive alert thresholds.
+* **Goyette** - investigating clustering methods. causal inference
+* **Sabarese** - FA project #2? Account Warming.
+* **Battles** - .NET vs. .NET Core.  .NET Core supported in PAS.
+* **Nixon** - called away to urgent customer call
+* **Sweezy** - swagger and mlb-api work
 * **Vorhees** - absent
-* **Stewart** - 
+* **Stewart** - called away at the end of the call.
 
                   
 
