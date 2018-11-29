@@ -12,49 +12,39 @@ output:
   slidy_presentation:
     highlight: espresso
 ---
-
-## November Workshop Development Goals
-1. Implement Concourse Pipeline
-2. Re-Platform micro-services on **PAS**
-    - **mlb-datafresh**
-    - mlb-analytics-ant  
-    - mlb-machine-learning
-    - mlb-api 
-3. Evaluate data services for proper placement (CSV, SQLite, mLab mongo)
-4. Add Machine Learning guidance to mobile app.
- 
-## Funshop Review
+## November Funshop Review
 
 * Review "joined" data frame.
-* Begin implementing Concourse Pipeline (3 Pivots)
-* Continue implementing Concourse Pipeline (3 Pivots)
-* Re-platform micro-services on PAS
-* Re-platform data stores
-* Update mobile app to accomodate ML guidance.   
-* Complete re-platforming micro-services
+* Implemented Concourse Pipelines (3 Pivots)
+* Re-platformed micro-services on PAS
+* Re-platformed to MySQL data stores
+* Updated mobile app to accomodate ML guidance.   
 * **BHAG** - Deploy PF2.0 to Apple Store
 
-## CI/CD review and update
+# CI/CD review and update
 
-## Current setup
+Kenny Sabarese
+
+
+## Current Setup
 * Individual pipelines created for 3 batch microservices
-  - datafresh and analytics ant include tasks to run manual jobs, ML does not
+    - **DataFreshAnt** and **AnalyticsAnt** include tasks to run manual jobs, **MachineLearningAnt** does not
 * Task to execute batch job
 * Dataflow pipeline created to execute the batch jobs
-  - Execute datafresh first, on completion execute analytics and ML in parallel
+    - Execute **DataFreshAnt** first, on completion execute analytics and ML in parallel
 * Current status
-  - Datafresh ready
-  - Analytics ant and ML tasks to be tested and tweaked
+    - Datafresh ready
+    - **AnalyticsAnt** and **MachineLearningAnt** tasks to be tested and tweaked
 
 ## Open Questions
 * Does a code commit automatically kick off a build? 
-  - No. Only if you set "trigger: true" 
+    - No. Only if you set "trigger: true" 
 * Can we modify a task in github without kicking off a build? 
-  - Seems everything we have tried has not worked
+    - Seems everything we have tried has not worked
 
 ## Actions
-* Finish and test analytics ant task
-* Finish and test ML task
+* Finish and test **AnalyticsAnt** task
+* Finish and test **MachineLearningAnt** task
 * Schedule setup
 * Change datafresh to command line push for staging setting? 
 * Documentation?
