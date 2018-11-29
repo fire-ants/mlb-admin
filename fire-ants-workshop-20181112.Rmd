@@ -1,7 +1,7 @@
 ---
 title: "Fire-Ants-FY19Q3Workshop"
 author: "Jason Battles"
-date: "October 15-17, 2018"
+date: "November 12-14, 2018"
 output:
   ioslides_presentation:
     highlight: espresso
@@ -28,6 +28,7 @@ output:
 ## Funshop Format - MON 
 **MON, 12NOV 0900 - 1700**
 
+* Review "joined" dataframe
 * Review issues in GitHub repo.  
 * Dust-off the cobwebs and get to work.  
 * Begin implementing Concourse Pipeline (3 Pivots)
