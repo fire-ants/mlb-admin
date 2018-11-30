@@ -31,7 +31,7 @@ Kenny Sabarese
     - **DataFreshAnt** and **AnalyticsAnt** include tasks to run manual jobs, **MachineLearningAnt** does not
 * Task to execute batch job
 * Dataflow pipeline created to execute the batch jobs
-    - Execute **DataFreshAnt** first, on completion execute analytics and ML in parallel
+    - Execute **DataFreshAnt** first, on completion execute analytics and *MachineLearningAnt** in parallel
 * Current status
     - Datafresh ready
     - **AnalyticsAnt** and **MachineLearningAnt** tasks to be tested and tweaked
@@ -51,15 +51,14 @@ Kenny Sabarese
     
 ## Around the Horn (a.k.a. Discoveries this week)
 
-* **Cohen** - 
-* **Mordi** - 
-* **Goyette** - 
-* **Sabarese** -
+* **Cohen** - updates still underway on **DataFreshAnt**
+* **Mordi** - Bee will update diagram
+* **Goyette** - good discussion regarding ML.  CG will schedule sync pair discussion.
+* **Sabarese** - brokered conversation on DataFlow
 * **Battles** - 
-* **Nixon** - 
+* **Nixon** - ML guidance now incorporated into mobile app
 * **Sweezy** - 
-* **Vorhees** - 
-* **Stewart** - 
+* **Stewart** - absent 
 
                   
 
