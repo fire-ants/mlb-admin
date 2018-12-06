@@ -1,0 +1,34 @@
+---
+title: "Fire-Ants-Scrum"
+author: "Jason Battles"
+date: "December 6, 2018"
+output:
+  ioslides_presentation:
+    highlight: espresso
+    logo: images/FA-LogoPack/fireants-md-logo.jpg
+    widescreen: yes
+  beamer_presentation:
+    highlight: espresso
+  slidy_presentation:
+    highlight: espresso
+---
+## PF2.0 Items in Flight
+* Finish and test **DataFreshAnt** 
+* Schedule **MachineLearningAnt** Pair Session
+* Finish and test **MachineLearningAnt** 
+* Finalize **AnalyticsAnt** 
+* Upload **MobileAnt**
+* Finalize **API-Ant**
+* Updated Diagram.
+
+## DataFresh Ant (Cohen)
+
+* Review Outputs & Schedule (service contract deliverables)
+* Key Learnings
+* Next Steps (edited)
+
+    
+
+                  
+
+                                
