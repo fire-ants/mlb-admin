@@ -13,19 +13,21 @@ output:
     highlight: espresso
 ---
 ## PF2.0 Items in Flight
-* Finish and test **DataFreshAnt** 
-* Schedule **MachineLearningAnt** Pair Session
+* Finish and test **DataFreshAnt** - DC WIP
+* Schedule **MachineLearningAnt** Pair Session (scheduling, inputs, outputs) - CG WIP
 * Finish and test **MachineLearningAnt** 
-* Finalize **AnalyticsAnt** 
+* Finalize **VisualizationAnt** - rebranded from **AnalyticsAnt**.  DC and JB WIP
 * Upload **MobileAnt**
-* Finalize **API-Ant**
-* Updated Diagram.
+* Finalize **API-Ant** - grab all MLB players?  
+* Unique MLBid List - AS & CG researching options.
+* Updated Diagram - JB, DN, AS input needed.  Original inputs lost.
+* **DataFlow** - will run every 24 hours.  KS created new branch.  Working on scheduling.
 
 ## DataFresh Ant (Cohen)
 
 * Review Outputs & Schedule (service contract deliverables)
 * Key Learnings
-* Next Steps (edited)
+* Next Steps
 
     
 
