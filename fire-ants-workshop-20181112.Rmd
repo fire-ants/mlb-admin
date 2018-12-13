@@ -13,7 +13,7 @@ output:
     highlight: espresso
 ---
 ## November Workshop Development Goals
-1.  Implement Concourse Pipeline
+1. Implement Concourse Pipeline
 2. Re-Platform micro-services on **PAS**
     - **mlb-datafresh**
     - mlb-analytics-ant  
