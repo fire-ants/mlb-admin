@@ -17,7 +17,7 @@ output:
 * Schedule **MachineLearningAnt** Pair Session (scheduling, inputs, outputs) - CG WIP
 * Finish and test **MachineLearningAnt** 
 * Finalize **VisualizationAnt** - rebranded from **AnalyticsAnt**.  DC and JB WIP
-* Upload **MobileAnt**
+* Upload **MobileAnt** to AppleStore
 * Finalize **API-Ant** - grab all MLB players?  
 * Unique MLBid List - AS & CG researching options.
 * Updated Diagram - JB, DN, AS input needed.  Original inputs lost.
