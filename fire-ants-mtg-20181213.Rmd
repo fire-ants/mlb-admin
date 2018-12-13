@@ -1,0 +1,39 @@
+---
+title: "Fire-Ants-Scrum"
+author: "Jason Battles"
+date: "December 13, 2018"
+output:
+  ioslides_presentation:
+    highlight: espresso
+    logo: images/FA-LogoPack/fireants-md-logo.jpg
+    widescreen: yes
+  beamer_presentation:
+    highlight: espresso
+  slidy_presentation:
+    highlight: espresso
+---
+## PF2.0 Items in Flight
+* Finish and test **DataFreshAnt** - DC WIP
+* Schedule **MachineLearningAnt** Pair Session (scheduling, inputs, outputs) - CG WIP
+* Finish and test **MachineLearningAnt** 
+* Finalize **VisualizationAnt** - rebranded from **AnalyticsAnt**.  DC and JB WIP
+* Upload **MobileAnt** to AppleStore
+* Finalize **API-Ant** - grab all MLB players?  
+* Unique MLBid List - AS & CG researching options.
+* Updated Diagram - JB, DN, AS input needed.  Original inputs lost.
+* **DataFlow** - will run every 24 hours.  KS created new branch.  Working on scheduling.
+
+## MachineLearning Ant (Goyette)
+* Review Outputs & Schedule 
+* Key Learnings
+* Next Steps
+
+## Coordinating Changes (Goyette)
+* Inputs to ML - What changed?
+* Service Contracts
+* Next Steps
+    
+
+                  
+
+                                
