@@ -30,7 +30,8 @@ output:
 
 ## Coordinating Changes (Goyette)
 * Inputs to ML - What changed?
-* Service Contracts
+* Branching Strategy
+* Service Contracts - Discussion
 * Next Steps
     
 
