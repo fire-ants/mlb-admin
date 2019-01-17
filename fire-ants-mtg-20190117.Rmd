@@ -1,7 +1,7 @@
 ---
 title: "Fire-Ants-Scrum"
 author: "Jason Battles"
-date: "January 10, 2019"
+date: "January 17, 2019"
 output:
   ioslides_presentation:
     highlight: espresso
