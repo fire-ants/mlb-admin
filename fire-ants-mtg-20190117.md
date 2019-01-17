@@ -18,10 +18,10 @@ output:
 ![The Fire Ants](images/img_3899b.png)
 
 ## Admin Items
-* Happy 2019!
-* Digital Ocean Cleanup
-* Monitoring the EMC Code Team Situation.
-* MDC Consolidation
+
+* **Digital Ocean Cleanup** - COMPLETE
+* ![PF Application Flow](images/pf-appflow-201901.png)
+
 
 ![](images/img_3895b.png) 
 
