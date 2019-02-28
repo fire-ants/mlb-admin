@@ -1,7 +1,7 @@
 ---
 title: "Fire-Ants-Scrum"
 author: "Jason Battles"
-date: "January 31, 2019"
+date: "February 28, 2019"
 output:
   ioslides_presentation:
     highlight: espresso
@@ -12,8 +12,13 @@ output:
   slidy_presentation:
     highlight: espresso
 ---
-## NO QUORUM ESTABLISHED
-* SCRUM cancelled for today
+## ADMIN
+
+* Colin has great opportunity at Domino Data Labs
+* Discuss hiatus until 15AUG.  In the meantime...
+    - Recruit / Refit
+    - Refine PF Roadmap
+    - Monitor PAS Updates
 
 ## PF2.0 ACTION ITEMS (I)
 
@@ -21,7 +26,7 @@ output:
 * **MachineLearning Ant** - Good to Go.
 * **Visualization Ant** - DC and JB met to review code.  Definied remaining issues in GitHub.
 * **API Ant** - update?
-* **Mobile Ant** - Scheduling session to push to Apple Store and Google Play.  update?
+* **Mobile Ant** - Pushed code to Apple Store and Google Play.  Update Apple Store record
 
 ## PF2.0 ACTION ITEMS (II)
 
